@@ -20,7 +20,7 @@ Status as of 2026-11-22. "Done" means the item was executed and checked, not onl
 | R4 Results table: metric, size (MB), latency (≥100 runs), hardware | Done | 10 warm-up + 200 timed runs, batch 1, CPU; `reports/results.json`, `reports/hardware.json` |
 | R2 Four technique areas + technique map slide | Done | slide 5 of `docs/presentation.pdf` |
 | R6 Architecture diagram that matches the code | Done | `docs/architecture.png` (each box names its source file) |
-| R7 Repository: README with setup + single run command, requirements.txt, no large weights | Done (local) | fresh-copy test: new venv + `requirements.txt` + `artifacts.zip` → 35/35 tests passed, app health OK; 90 tracked files, 3 MB |
+| R7 Repository: README with setup + single run command, requirements.txt, no large weights | Done | public repo; weights on Google Drive (https://drive.google.com/file/d/1uRCamfX7Ifb2V4-JrpcALzNN6wGcYMV7/view?usp=sharing); fresh-copy test: new venv + `requirements.txt` + `artifacts.zip` → 35/35 tests passed, app health OK; weights not in Git |
 | R8 AI usage slide | Done | slide 11, `AI_USAGE.md` |
 | Presentation 8–12 slides, Intro / Development / Conclusion, first slide with name, ID, use case, links | Done | `docs/presentation.pdf`, 11 slides; repository and video links on slide 1 (clickable) |
 | At least one failure example | Done | slide 10, `reports/failure_examples.csv` |
@@ -29,5 +29,4 @@ Status as of 2026-11-22. "Done" means the item was executed and checked, not onl
 | Two-minute demo video | Done | https://drive.google.com/file/d/1OkpE_dM0JU57XOel24jqHBzsU5b3WJq8/view?usp=sharing (opens without login); script in `docs/DEMO_SCRIPT.md` |
 
 ## Still to do by the student (needs personal accounts)
-1. Upload `artifacts.zip` (≈1.5 GB) to Google Drive ("anyone with the link") or Hugging Face Hub, and put the link in README.md ("Model artifacts").
-2. Open the repository, video and artifacts links in a private browser window to check that they work.
+1. Open the repository, video and artifacts links in a private browser window to check that they work.

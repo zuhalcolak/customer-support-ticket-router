@@ -4,6 +4,7 @@ SWE015 – Introduction to Large Language Models · Homework · **Use Case 2: Cu
 
 * Demo video (2 min): https://drive.google.com/file/d/1OkpE_dM0JU57XOel24jqHBzsU5b3WJq8/view?usp=sharing
 * Presentation: [docs/presentation.pdf](docs/presentation.pdf)
+* Trained model artifacts (Google Drive): https://drive.google.com/file/d/1uRCamfX7Ifb2V4-JrpcALzNN6wGcYMV7/view?usp=sharing
 
 A home-appliance brand receives support messages in **Turkish and English**. This application
 normalizes each message, extracts the product model code, predicts the intent with a confidence
@@ -108,7 +109,7 @@ Model weights are **not** stored in Git. Choose one option:
 models + the FP32 student) from the link below and unzip it in the project root so that
 `artifacts/quantized/model_int8.pt` exists:
 
-* Trained artifacts: `<INSERT HUGGING FACE / GOOGLE DRIVE LINK>`
+* Trained artifacts (Google Drive): https://drive.google.com/file/d/1uRCamfX7Ifb2V4-JrpcALzNN6wGcYMV7/view?usp=sharing
 
 ```bash
 unzip artifacts.zip -d .
