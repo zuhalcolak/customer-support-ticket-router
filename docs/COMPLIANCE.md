@@ -26,7 +26,7 @@ Status as of 2026-11-22. "Done" means the item was executed and checked, not onl
 | At least one failure example | Done | slide 10, `reports/failure_examples.csv` |
 | Automated tests executed | Done | `python -m pytest -q` → 35 passed |
 | Dataset sources and licenses documented | Done | `DATASET_REPORT.md` |
-| Two-minute demo video | Done | https://drive.google.com/file/d/1OkpE_dM0JU57XOel24jqHBzsU5b3WJq8/view?usp=sharing (opens without login); script in `docs/TWO_MINUTE_SCRIPT.md` |
+| Two-minute demo video | Done | https://drive.google.com/file/d/1OkpE_dM0JU57XOel24jqHBzsU5b3WJq8/view?usp=sharing (opens without login); script in `docs/DEMO_SCRIPT.md` |
 
 ## Still to do by the student (needs personal accounts)
 1. Upload `artifacts.zip` (≈1.5 GB) to Google Drive ("anyone with the link") or Hugging Face Hub, and put the link in README.md ("Model artifacts").
