@@ -2,6 +2,9 @@
 
 SWE015 – Introduction to Large Language Models · Homework · **Use Case 2: Customer Support Ticket Router**
 
+* Demo video (2 min): https://drive.google.com/file/d/1OkpE_dM0JU57XOel24jqHBzsU5b3WJq8/view?usp=sharing
+* Presentation: [docs/presentation.pdf](docs/presentation.pdf)
+
 A home-appliance brand receives support messages in **Turkish and English**. This application
 normalizes each message, extracts the product model code, predicts the intent with a confidence
 score and routes it to the right department. Low-confidence or out-of-scope messages go to a

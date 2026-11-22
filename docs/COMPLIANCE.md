@@ -22,15 +22,12 @@ Status as of 2026-11-22. "Done" means the item was executed and checked, not onl
 | R6 Architecture diagram that matches the code | Done | `docs/architecture.png` (each box names its source file) |
 | R7 Repository: README with setup + single run command, requirements.txt, no large weights | Done (local) | fresh-copy test: new venv + `requirements.txt` + `artifacts.zip` → 35/35 tests passed, app health OK; 90 tracked files, 3 MB |
 | R8 AI usage slide | Done | slide 11, `AI_USAGE.md` |
-| Presentation 8–12 slides, Intro / Development / Conclusion, first slide with name, ID, use case, links | Done except video link | `docs/presentation.pdf`, 11 slides; video link is still `[INSERT DEMO VIDEO URL]` |
+| Presentation 8–12 slides, Intro / Development / Conclusion, first slide with name, ID, use case, links | Done | `docs/presentation.pdf`, 11 slides; repository and video links on slide 1 (clickable) |
 | At least one failure example | Done | slide 10, `reports/failure_examples.csv` |
 | Automated tests executed | Done | `python -m pytest -q` → 35 passed |
 | Dataset sources and licenses documented | Done | `DATASET_REPORT.md` |
-| Two-minute demo script | Done | `docs/DEMO_SCRIPT.md` |
+| Two-minute demo video | Done | https://drive.google.com/file/d/1OkpE_dM0JU57XOel24jqHBzsU5b3WJq8/view?usp=sharing (opens without login); script in `docs/TWO_MINUTE_SCRIPT.md` |
 
 ## Still to do by the student (needs personal accounts)
-1. Push the repository to https://github.com/zuhalcolak/customer-support-ticket-router (public, or shared with the instructor).
-2. Upload `artifacts.zip` (≈1.5 GB) to Google Drive ("anyone with the link") or Hugging Face Hub, and put the link in README.md ("Model artifacts").
-3. Record the ≤2:00 narrated demo video, upload it (YouTube unlisted or Drive), and rebuild the slides with the link:
-   `python scripts/make_slides.py --video <URL>`
-4. Open both links in a private browser window to check that they work.
+1. Upload `artifacts.zip` (≈1.5 GB) to Google Drive ("anyone with the link") or Hugging Face Hub, and put the link in README.md ("Model artifacts").
+2. Open the repository, video and artifacts links in a private browser window to check that they work.

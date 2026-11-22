@@ -146,7 +146,8 @@ def main() -> None:
                 ("Repository", args.repo), ("Demo video", args.video)]
         for i, (k, v) in enumerate(info):
             ax.text(0.9, 3.2 - i * 0.42, k, fontsize=13, color=MUTED)
-            ax.text(3.0, 3.2 - i * 0.42, v, fontsize=13, color=INK, weight="bold")
+            url = v if v.startswith("http") else None  # clickable link in the PDF
+            ax.text(3.0, 3.2 - i * 0.42, v, fontsize=13, color=INK, weight="bold", url=url)
         save(pdf, fig)
         plt.close(fig)
 
