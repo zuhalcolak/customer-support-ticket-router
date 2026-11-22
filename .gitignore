@@ -1,0 +1,22 @@
+# environments
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+
+# raw data (re-downloaded by scripts/download_dataset.py)
+data/raw/
+
+# large model weights - published separately (see README "Model artifacts")
+artifacts/transformer/
+artifacts/student/
+artifacts/quantized/
+artifacts/neural/
+artifacts/classical/
+artifacts/predictions/
+artifacts/app_logs/
+artifacts/*.tar.gz
+artifacts/*.zip
+.claude/
+artifacts.zip

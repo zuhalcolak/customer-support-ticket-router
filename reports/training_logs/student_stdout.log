@@ -1,0 +1,67 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+W1122 12:09:47.556000 21293 .venv/lib/python3.13/site-packages/torch/distributed/elastic/multiprocessing/redirects.py:35] NOTE: Redirects are currently not supported in MacOs.
+Loading weights:   0%|          | 0/100 [00:00<?, ?it/s]Loading weights: 100%|██████████| 100/100 [00:00<00:00, 34116.67it/s]
+[transformers] [1mDistilBertForSequenceClassification LOAD REPORT[0m from: distilbert/distilbert-base-multilingual-cased
+Key                     | Status     | 
+------------------------+------------+-
+vocab_projector.bias    | UNEXPECTED | 
+vocab_transform.weight  | UNEXPECTED | 
+vocab_layer_norm.weight | UNEXPECTED | 
+vocab_layer_norm.bias   | UNEXPECTED | 
+vocab_transform.bias    | UNEXPECTED | 
+classifier.weight       | MISSING    | 
+pre_classifier.bias     | MISSING    | 
+classifier.bias         | MISSING    | 
+pre_classifier.weight   | MISSING    | 
+
+Notes:
+- UNEXPECTED:	can be ignored when loading from different task/architecture; not ok if you expect identical arch.
+- MISSING:	those params were newly initialized because missing from the checkpoint. Consider training on your downstream task.
+[student] epoch 1 step 0/119 loss=3.8138 t=3s
+[student] epoch 1 step 20/119 loss=3.4767 t=13s
+[student] epoch 1 step 40/119 loss=2.9039 t=23s
+[student] epoch 1 step 60/119 loss=2.5192 t=33s
+[student] epoch 1 step 80/119 loss=1.7815 t=44s
+[student] epoch 1 step 100/119 loss=1.6157 t=59s
+[student] epoch 1: loss=2.4377 val_acc=0.6601
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.93it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.93it/s]
+[student] epoch 2 step 0/119 loss=0.8970 t=78s
+[student] epoch 2 step 20/119 loss=0.7216 t=95s
+[student] epoch 2 step 40/119 loss=0.4516 t=112s
+[student] epoch 2 step 60/119 loss=0.4285 t=127s
+[student] epoch 2 step 80/119 loss=0.5885 t=142s
+[student] epoch 2 step 100/119 loss=0.3392 t=156s
+[student] epoch 2: loss=0.5755 val_acc=0.8292
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.25it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.25it/s]
+[student] epoch 3 step 0/119 loss=0.4059 t=173s
+[student] epoch 3 step 20/119 loss=0.1676 t=188s
+[student] epoch 3 step 40/119 loss=0.2653 t=202s
+[student] epoch 3 step 60/119 loss=0.1347 t=215s
+[student] epoch 3 step 80/119 loss=0.2447 t=229s
+[student] epoch 3 step 100/119 loss=0.1416 t=243s
+[student] epoch 3: loss=0.2554 val_acc=0.8785
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.22it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.22it/s]
+[student] epoch 4 step 0/119 loss=0.1590 t=259s
+[student] epoch 4 step 20/119 loss=0.1317 t=273s
+[student] epoch 4 step 40/119 loss=0.2201 t=290s
+[student] epoch 4 step 60/119 loss=0.1427 t=305s
+[student] epoch 4 step 80/119 loss=0.0788 t=319s
+[student] epoch 4 step 100/119 loss=0.2001 t=332s
+[student] epoch 4: loss=0.1565 val_acc=0.8998
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.12it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.12it/s]
+[student] epoch 5 step 0/119 loss=0.1175 t=349s
+[student] epoch 5 step 20/119 loss=0.1238 t=362s
+[student] epoch 5 step 40/119 loss=0.1416 t=375s
+[student] epoch 5 step 60/119 loss=0.0727 t=390s
+[student] epoch 5 step 80/119 loss=0.1897 t=404s
+[student] epoch 5 step 100/119 loss=0.0904 t=417s
+[student] epoch 5: loss=0.1180 val_acc=0.8982
+[student] epoch 6 step 0/119 loss=0.1120 t=433s
+[student] epoch 6 step 20/119 loss=0.1203 t=446s
+[student] epoch 6 step 40/119 loss=0.1467 t=464s
+[student] epoch 6 step 60/119 loss=0.0571 t=480s
+[student] epoch 6 step 80/119 loss=0.0846 t=496s
+[student] epoch 6 step 100/119 loss=0.1077 t=510s
+[student] epoch 6: loss=0.1020 val_acc=0.8998
+Loading weights:   0%|          | 0/104 [00:00<?, ?it/s]Loading weights: 100%|██████████| 104/104 [00:00<00:00, 8622.24it/s]
+{'accuracy': 0.8756218905472637, 'macro_f1': 0.7033426989107461, 'oos_recall': 0.9108910891089109}

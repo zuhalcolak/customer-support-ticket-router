@@ -1,0 +1,88 @@
+{
+  "base_model": "FacebookAI/xlm-roberta-base",
+  "device": "mps",
+  "torch": "2.15.0",
+  "platform": "macOS-27.0-arm64-arm-64bit-Mach-O",
+  "processor": "arm",
+  "config": {
+    "epochs": 5,
+    "lr": 3e-05,
+    "batch_size": 32,
+    "max_len": 64,
+    "optimizer": "AdamW",
+    "weight_decay": 0.01,
+    "warmup_ratio": 0.1,
+    "scheduler": "linear"
+  },
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 2.403972243060585,
+      "val_acc": 0.5862068965517241,
+      "elapsed_s": 371.8370358943939
+    },
+    {
+      "epoch": 2,
+      "train_loss": 1.1872629623453157,
+      "val_acc": 0.7881773399014779,
+      "elapsed_s": 775.6929488182068
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.6787102543005422,
+      "val_acc": 0.8243021346469622,
+      "elapsed_s": 1113.9879248142242
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.4470851630473337,
+      "val_acc": 0.8981937602627258,
+      "elapsed_s": 1554.9925410747528
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.34004580248303773,
+      "val_acc": 0.909688013136289,
+      "elapsed_s": 1827.7076909542084
+    }
+  ],
+  "best_val_acc": 0.909688013136289,
+  "train_seconds": 1829.9275250434875,
+  "steps": 595,
+  "threshold": 0.43,
+  "val": {
+    "threshold": 0.43,
+    "accuracy": 0.9047619047619048,
+    "macro_precision": 0.8140939333734316,
+    "macro_recall": 0.7742226120946548,
+    "macro_f1": 0.7785378210982599,
+    "oos_recall": 0.970954356846473,
+    "oos_precision": 0.9140625,
+    "inscope_accuracy": 0.8614130434782609,
+    "accuracy_no_threshold": 0.909688013136289,
+    "oos_recall_no_threshold": 0.9585062240663901,
+    "n": 609,
+    "n_oos": 241
+  },
+  "test": {
+    "threshold": 0.43,
+    "accuracy": 0.8805970149253731,
+    "macro_precision": 0.7633374807323274,
+    "macro_recall": 0.7759463108287127,
+    "macro_f1": 0.7528949612545486,
+    "oos_recall": 0.9075907590759076,
+    "oos_precision": 0.9401709401709402,
+    "inscope_accuracy": 0.8533333333333334,
+    "accuracy_no_threshold": 0.867330016583748,
+    "oos_recall_no_threshold": 0.858085808580858,
+    "n": 1206,
+    "n_oos": 606,
+    "accuracy[lang=en]": 0.8817733990147784,
+    "accuracy[lang=tr]": 0.8793969849246231,
+    "accuracy[oos_type=none]": 0.8533333333333334,
+    "oos_recall[seen]": 0.9836601307189542,
+    "oos_recall[unseen]": 0.83,
+    "accuracy[source=manual]": 0.8,
+    "accuracy[source=massive]": 0.8819561551433389
+  }
+}

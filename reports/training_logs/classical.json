@@ -1,0 +1,39 @@
+{
+  "train_seconds": 4.330052852630615,
+  "threshold": 0.38,
+  "val": {
+    "threshold": 0.38,
+    "accuracy": 0.9146141215106732,
+    "macro_precision": 0.8092663339442072,
+    "macro_recall": 0.7438104655578022,
+    "macro_f1": 0.7621791099687162,
+    "oos_recall": 0.9875518672199171,
+    "oos_precision": 0.8880597014925373,
+    "inscope_accuracy": 0.8668478260869565,
+    "accuracy_no_threshold": 0.9261083743842364,
+    "oos_recall_no_threshold": 0.9875518672199171,
+    "n": 609,
+    "n_oos": 241
+  },
+  "test": {
+    "threshold": 0.38,
+    "accuracy": 0.8946932006633499,
+    "macro_precision": 0.7166785295870145,
+    "macro_recall": 0.6701377582657319,
+    "macro_f1": 0.6727936074695281,
+    "oos_recall": 0.9603960396039604,
+    "oos_precision": 0.8981481481481481,
+    "inscope_accuracy": 0.8283333333333334,
+    "accuracy_no_threshold": 0.8946932006633499,
+    "oos_recall_no_threshold": 0.9422442244224423,
+    "n": 1206,
+    "n_oos": 606,
+    "accuracy[lang=en]": 0.8949096880131363,
+    "accuracy[lang=tr]": 0.8944723618090452,
+    "accuracy[oos_type=none]": 0.8283333333333334,
+    "oos_recall[seen]": 0.9836601307189542,
+    "oos_recall[unseen]": 0.9366666666666666,
+    "accuracy[source=manual]": 0.2,
+    "accuracy[source=massive]": 0.9064080944350759
+  }
+}

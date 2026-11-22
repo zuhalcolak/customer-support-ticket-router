@@ -1,0 +1,22 @@
+{
+  "classical": {
+    "threshold": 0.38,
+    "val_accuracy_at_threshold": 0.9146141215106732
+  },
+  "neural": {
+    "threshold": 0.4,
+    "val_accuracy_at_threshold": 0.8029556650246306
+  },
+  "transformer": {
+    "threshold": 0.43,
+    "val_accuracy_at_threshold": 0.9047619047619048
+  },
+  "student_fp32": {
+    "threshold": 0.42,
+    "val_accuracy_at_threshold": 0.8949096880131363
+  },
+  "quantized": {
+    "threshold": 0.43,
+    "val_accuracy_at_threshold": 0.8850574712643678
+  }
+}

@@ -1,0 +1,610 @@
+massive_id,lang,scenario,original_intent,text,split,label,oos_type,source,uid,normalized,folded
+11,en,iot,iot_hue_lightoff,turn the lights off please,val,iot_hue_lightoff,none,massive,massive-en-11,turn the lights off please,turn the lights off please
+17,en,iot,iot_hue_lightdim,dim the lights in the hall,val,iot_hue_lightdim,none,massive,massive-en-17,dim the lights in the hall,dim the lights in the hall
+24,en,iot,iot_hue_lightdim,make a room darker,val,iot_hue_lightdim,none,massive,massive-en-24,make a room darker,make a room darker
+26,en,iot,iot_cleaning,clean the flat,val,iot_cleaning,none,massive,massive-en-26,clean the flat,clean the flat
+30,en,iot,iot_cleaning,cleaning is good dust is so bad do now your magic clean my carpet,val,iot_cleaning,none,massive,massive-en-30,cleaning is good dust is so bad do now your magic clean my carpet,cleaning is good dust is so bad do now your magic clean my carpet
+53,en,takeaway,takeaway_query,list most rated delivery options for chinese food,val,takeaway_query,none,massive,massive-en-53,list most rated delivery options for chinese food,list most rated delivery options for chinese food
+58,en,takeaway,takeaway_query,find my thai takeaways around grassmarket,val,takeaway_query,none,massive,massive-en-58,find my thai takeaways around grassmarket,find my thai takeaways around grassmarket
+90,en,takeaway,takeaway_query,what's with my dinner order,val,takeaway_query,none,massive,massive-en-90,what s with my dinner order,what s with my dinner order
+167,en,general,general_greet,hey hey,val,general_greet,none,massive,massive-en-167,hey hey,hey hey
+312,en,iot,iot_hue_lighton,it's too dark here,val,iot_hue_lighton,none,massive,massive-en-312,it s too dark here,it s too dark here
+388,en,iot,iot_wemo_off,turn off the smart plug,val,iot_wemo_off,none,massive,massive-en-388,turn off the smart plug,turn off the smart plug
+415,en,iot,iot_hue_lightchange,change my room lights so that i can get a good sleep,val,iot_hue_lightchange,none,massive,massive-en-415,change my room lights so that i can get a good sleep,change my room lights so that i can get a good sleep
+638,en,general,general_joke,can you find an animal joke for me,val,general_joke,none,massive,massive-en-638,can you find an animal joke for me,can you find an animal joke for me
+678,en,iot,iot_wemo_on,turn on the t. v. socket when i arrive home,val,iot_wemo_on,none,massive,massive-en-678,turn on the t v socket when i arrive home,turn on the t v socket when i arrive home
+697,en,iot,iot_hue_lightup,can you bright the lights please,val,iot_hue_lightup,none,massive,massive-en-697,can you bright the lights please,can you bright the lights please
+710,en,iot,iot_coffee,prepare coffee,val,iot_coffee,none,massive,massive-en-710,prepare coffee,prepare coffee
+756,en,iot,iot_wemo_off,can you turn off wemo plug socket,val,iot_wemo_off,none,massive,massive-en-756,can you turn off wemo plug socket,can you turn off wemo plug socket
+807,en,iot,iot_coffee,make coffee now,val,iot_coffee,none,massive,massive-en-807,make coffee now,make coffee now
+851,en,iot,iot_hue_lightup,brighten lights,val,iot_hue_lightup,none,massive,massive-en-851,brighten lights,brighten lights
+925,en,iot,iot_hue_lightdim,please lower the lights a little bit,val,iot_hue_lightdim,none,massive,massive-en-925,please lower the lights a little bit,please lower the lights a little bit
+966,en,takeaway,takeaway_query,does pf changs accept take-out orders,val,takeaway_query,none,massive,massive-en-966,does pf changs accept take out orders,does pf changs accept take out orders
+1023,en,takeaway,takeaway_query,find out if the olive garden will let me do takeaway,val,takeaway_query,none,massive,massive-en-1023,find out if the olive garden will let me do takeaway,find out if the olive garden will let me do takeaway
+1058,en,iot,iot_cleaning,at one p. m. today start the robot vacuum cleaner,val,iot_cleaning,none,massive,massive-en-1058,at one p m today start the robot vacuum cleaner,at one p m today start the robot vacuum cleaner
+1210,en,takeaway,takeaway_order,order a meal from a nice restaurant,val,takeaway_order,none,massive,massive-en-1210,order a meal from a nice restaurant,order a meal from a nice restaurant
+1215,en,iot,iot_hue_lightchange,olly make the living room blue,val,iot_hue_lightchange,none,massive,massive-en-1215,olly make the living room blue,olly make the living room blue
+1216,en,iot,iot_hue_lightchange,make the living room blue,val,iot_hue_lightchange,none,massive,massive-en-1216,make the living room blue,make the living room blue
+1257,en,general,general_joke,find me the best knock knock joke on the internet,val,general_joke,none,massive,massive-en-1257,find me the best knock knock joke on the internet,find me the best knock knock joke on the internet
+1277,en,general,general_greet,hey,val,general_greet,none,massive,massive-en-1277,hey,hey
+1357,en,iot,iot_hue_lightchange,switch to night light setting,val,iot_hue_lightchange,none,massive,massive-en-1357,switch to night light setting,switch to night light setting
+1380,en,takeaway,takeaway_query,can i get an order delivered from romero's,val,takeaway_query,none,massive,massive-en-1380,can i get an order delivered from romero s,can i get an order delivered from romero s
+1416,en,takeaway,takeaway_order,order some takeaway food,val,takeaway_order,none,massive,massive-en-1416,order some takeaway food,order some takeaway food
+1478,en,general,general_joke,search for new jokes,val,general_joke,none,massive,massive-en-1478,search for new jokes,search for new jokes
+1569,en,iot,iot_coffee,can i have an espresso please,val,iot_coffee,none,massive,massive-en-1569,can i have an espresso please,can i have an espresso please
+1576,en,iot,iot_cleaning,olly start the vacuum cleaner,val,iot_cleaning,none,massive,massive-en-1576,olly start the vacuum cleaner,olly start the vacuum cleaner
+1599,en,iot,iot_cleaning,can you start the roomba,val,iot_cleaning,none,massive,massive-en-1599,can you start the roomba,can you start the roomba
+1702,en,iot,iot_cleaning,by ten to eleven am daily start my vacuum cleaner,val,iot_cleaning,none,massive,massive-en-1702,by ten to eleven am daily start my vacuum cleaner,by ten to eleven am daily start my vacuum cleaner
+1805,en,iot,iot_hue_lightup,i need some more lights,val,iot_hue_lightup,none,massive,massive-en-1805,i need some more lights,i need some more lights
+1888,en,iot,iot_hue_lightdim,give me low lighting in the kitchen,val,iot_hue_lightdim,none,massive,massive-en-1888,give me low lighting in the kitchen,give me low lighting in the kitchen
+1910,en,takeaway,takeaway_query,restaurant order status,val,takeaway_query,none,massive,massive-en-1910,restaurant order status,restaurant order status
+1925,en,iot,iot_cleaning,start my robot vacuum cleaner,val,iot_cleaning,none,massive,massive-en-1925,start my robot vacuum cleaner,start my robot vacuum cleaner
+1943,en,iot,iot_cleaning,start house cleanup,val,iot_cleaning,none,massive,massive-en-1943,start house cleanup,start house cleanup
+1945,en,iot,iot_hue_lightoff,switch off the light,val,iot_hue_lightoff,none,massive,massive-en-1945,switch off the light,switch off the light
+1948,en,general,general_joke,funny joke,val,general_joke,none,massive,massive-en-1948,funny joke,funny joke
+1988,en,iot,iot_hue_lighton,hey alexa turn on disco lights in my apartment and let the party begin,val,iot_hue_lighton,none,massive,massive-en-1988,hey alexa turn on disco lights in my apartment and let the party begin,hey alexa turn on disco lights in my apartment and let the party begin
+2095,en,takeaway,takeaway_query,does peking garden deliver,val,takeaway_query,none,massive,massive-en-2095,does peking garden deliver,does peking garden deliver
+2118,en,iot,iot_hue_lightchange,set the mood please,val,iot_hue_lightchange,none,massive,massive-en-2118,set the mood please,set the mood please
+2120,en,iot,iot_hue_lightchange,turn lights blue,val,iot_hue_lightchange,none,massive,massive-en-2120,turn lights blue,turn lights blue
+2122,en,iot,iot_hue_lightchange,turn living room lights red,val,iot_hue_lightchange,none,massive,massive-en-2122,turn living room lights red,turn living room lights red
+2187,en,iot,iot_hue_lightoff,can you please turn off the light of my bed room,val,iot_hue_lightoff,none,massive,massive-en-2187,can you please turn off the light of my bed room,can you please turn off the light of my bed room
+2196,en,general,general_joke,hey share me some joke to make me happy,val,general_joke,none,massive,massive-en-2196,hey share me some joke to make me happy,hey share me some joke to make me happy
+2246,en,iot,iot_hue_lightoff,turn off the closet light,val,iot_hue_lightoff,none,massive,massive-en-2246,turn off the closet light,turn off the closet light
+2282,en,iot,iot_hue_lightchange,set color blue for all lights of my house,val,iot_hue_lightchange,none,massive,massive-en-2282,set color blue for all lights of my house,set color blue for all lights of my house
+2312,en,iot,iot_hue_lightdim,olly turn the lights down to seven,val,iot_hue_lightdim,none,massive,massive-en-2312,olly turn the lights down to seven,olly turn the lights down to seven
+2313,en,iot,iot_hue_lightdim,lights down to seven,val,iot_hue_lightdim,none,massive,massive-en-2313,lights down to seven,lights down to seven
+2318,en,iot,iot_hue_lightdim,minimize the light power,val,iot_hue_lightdim,none,massive,massive-en-2318,minimize the light power,minimize the light power
+2464,en,iot,iot_hue_lightoff,olly turn off the lights,val,iot_hue_lightoff,none,massive,massive-en-2464,olly turn off the lights,olly turn off the lights
+2470,en,iot,iot_hue_lighton,switch on the lights,val,iot_hue_lighton,none,massive,massive-en-2470,switch on the lights,switch on the lights
+2478,en,takeaway,takeaway_order,order take-out,val,takeaway_order,none,massive,massive-en-2478,order take out,order take out
+2483,en,iot,iot_hue_lightdim,will you dim all the lights,val,iot_hue_lightdim,none,massive,massive-en-2483,will you dim all the lights,will you dim all the lights
+2499,en,iot,iot_hue_lightdim,lights down,val,iot_hue_lightdim,none,massive,massive-en-2499,lights down,lights down
+2518,en,iot,iot_cleaning,hey olly how do i start the robot vacuum cleaner,val,iot_cleaning,none,massive,massive-en-2518,hey olly how do i start the robot vacuum cleaner,hey olly how do i start the robot vacuum cleaner
+2520,en,iot,iot_cleaning,please help me turn on the robot vacuum cleaner,val,iot_cleaning,none,massive,massive-en-2520,please help me turn on the robot vacuum cleaner,please help me turn on the robot vacuum cleaner
+2538,en,takeaway,takeaway_query,what is the status on my latest order,val,takeaway_query,none,massive,massive-en-2538,what is the status on my latest order,what is the status on my latest order
+2576,en,iot,iot_hue_lightdim,please dim the lights in the bedroom,val,iot_hue_lightdim,none,massive,massive-en-2576,please dim the lights in the bedroom,please dim the lights in the bedroom
+2599,en,iot,iot_coffee,i would like coffee now,val,iot_coffee,none,massive,massive-en-2599,i would like coffee now,i would like coffee now
+2600,en,iot,iot_hue_lightoff,turn off my bedside lamp please,val,iot_hue_lightoff,none,massive,massive-en-2600,turn off my bedside lamp please,turn off my bedside lamp please
+2620,en,iot,iot_cleaning,please start vacuum,val,iot_cleaning,none,massive,massive-en-2620,please start vacuum,please start vacuum
+2621,en,iot,iot_cleaning,start vacuum cleaner now,val,iot_cleaning,none,massive,massive-en-2621,start vacuum cleaner now,start vacuum cleaner now
+2687,en,takeaway,takeaway_order,confirm the order,val,takeaway_order,none,massive,massive-en-2687,confirm the order,confirm the order
+2693,en,iot,iot_coffee,make a cup of coffee for me,val,iot_coffee,none,massive,massive-en-2693,make a cup of coffee for me,make a cup of coffee for me
+2710,en,iot,iot_hue_lightoff,power off the current,val,iot_hue_lightoff,none,massive,massive-en-2710,power off the current,power off the current
+2740,en,takeaway,takeaway_query,can i get delivery from this restaurant,val,takeaway_query,none,massive,massive-en-2740,can i get delivery from this restaurant,can i get delivery from this restaurant
+2741,en,takeaway,takeaway_query,does my favorite restaurant do delivery,val,takeaway_query,none,massive,massive-en-2741,does my favorite restaurant do delivery,does my favorite restaurant do delivery
+2742,en,takeaway,takeaway_query,do they offer takeaway,val,takeaway_query,none,massive,massive-en-2742,do they offer takeaway,do they offer takeaway
+2749,en,iot,iot_coffee,start up the coffee machine,val,iot_coffee,none,massive,massive-en-2749,start up the coffee machine,start up the coffee machine
+2810,en,iot,iot_hue_lightup,brighten lights in living room,val,iot_hue_lightup,none,massive,massive-en-2810,brighten lights in living room,brighten lights in living room
+2814,en,iot,iot_coffee,brew some coffee,val,iot_coffee,none,massive,massive-en-2814,brew some coffee,brew some coffee
+2821,en,iot,iot_hue_lightchange,change light colors from blue to white,val,iot_hue_lightchange,none,massive,massive-en-2821,change light colors from blue to white,change light colors from blue to white
+2822,en,iot,iot_hue_lightchange,make the lights in the house red,val,iot_hue_lightchange,none,massive,massive-en-2822,make the lights in the house red,make the lights in the house red
+2834,en,iot,iot_cleaning,please have vacuum go for one hour,val,iot_cleaning,none,massive,massive-en-2834,please have vacuum go for one hour,please have vacuum go for one hour
+2841,en,iot,iot_hue_lightchange,set the living room lights to red,val,iot_hue_lightchange,none,massive,massive-en-2841,set the living room lights to red,set the living room lights to red
+2844,en,takeaway,takeaway_query,how's the restaurant's delivery going,val,takeaway_query,none,massive,massive-en-2844,how s the restaurant s delivery going,how s the restaurant s delivery going
+2851,en,takeaway,takeaway_query,domino's has takeaway right,val,takeaway_query,none,massive,massive-en-2851,domino s has takeaway right,domino s has takeaway right
+2863,en,iot,iot_hue_lightchange,change light color to blue,val,iot_hue_lightchange,none,massive,massive-en-2863,change light color to blue,change light color to blue
+2901,en,takeaway,takeaway_order,order general t'so eggroll to go,val,takeaway_order,none,massive,massive-en-2901,order general t so eggroll to go,order general t so eggroll to go
+2946,en,iot,iot_wemo_off,alexa turn off the fan in the master bedroom,val,iot_wemo_off,none,massive,massive-en-2946,alexa turn off the fan in the master bedroom,alexa turn off the fan in the master bedroom
+2971,en,iot,iot_coffee,please start the coffee,val,iot_coffee,none,massive,massive-en-2971,please start the coffee,please start the coffee
+2978,en,iot,iot_hue_lightdim,lower lights,val,iot_hue_lightdim,none,massive,massive-en-2978,lower lights,lower lights
+2979,en,iot,iot_hue_lightdim,nighttime mode,val,iot_hue_lightdim,none,massive,massive-en-2979,nighttime mode,nighttime mode
+3018,en,takeaway,takeaway_query,find my food,val,takeaway_query,none,massive,massive-en-3018,find my food,find my food
+3046,en,takeaway,takeaway_order,i am really craving for chinese food right now please let me order take out,val,takeaway_order,none,massive,massive-en-3046,i am really craving for chinese food right now please let me order take out,i am really craving for chinese food right now please let me order take out
+3082,en,takeaway,takeaway_order,i need two pizzas stat,val,takeaway_order,none,massive,massive-en-3082,i need two pizzas stat,i need two pizzas stat
+3094,en,iot,iot_hue_lightoff,turn off lighting,val,iot_hue_lightoff,none,massive,massive-en-3094,turn off lighting,turn off lighting
+3134,en,takeaway,takeaway_order,what places can i order take-out from near by,val,takeaway_order,none,massive,massive-en-3134,what places can i order take out from near by,what places can i order take out from near by
+3183,en,iot,iot_wemo_off,power off on,val,iot_wemo_off,none,massive,massive-en-3183,power off on,power off on
+3281,en,iot,iot_hue_lightdim,olly lower the lights please,val,iot_hue_lightdim,none,massive,massive-en-3281,olly lower the lights please,olly lower the lights please
+3296,en,takeaway,takeaway_query,does the nearby chinese restaurant do delivery,val,takeaway_query,none,massive,massive-en-3296,does the nearby chinese restaurant do delivery,does the nearby chinese restaurant do delivery
+3377,en,iot,iot_hue_lightdim,decrease lighting,val,iot_hue_lightdim,none,massive,massive-en-3377,decrease lighting,decrease lighting
+3394,en,iot,iot_wemo_on,please turn on my wemo plug socket,val,iot_wemo_on,none,massive,massive-en-3394,please turn on my wemo plug socket,please turn on my wemo plug socket
+3437,en,iot,iot_hue_lightup,increase lights please,val,iot_hue_lightup,none,massive,massive-en-3437,increase lights please,increase lights please
+3464,en,iot,iot_hue_lighton,please turn on all the outdoor lights,val,iot_hue_lighton,none,massive,massive-en-3464,please turn on all the outdoor lights,please turn on all the outdoor lights
+3528,en,takeaway,takeaway_order,get me takeaway food,val,takeaway_order,none,massive,massive-en-3528,get me takeaway food,get me takeaway food
+3563,en,iot,iot_coffee,please make me a coffee,val,iot_coffee,none,massive,massive-en-3563,please make me a coffee,please make me a coffee
+3609,en,iot,iot_coffee,please make a coffee for me,val,iot_coffee,none,massive,massive-en-3609,please make a coffee for me,please make a coffee for me
+3701,en,iot,iot_hue_lightdim,this is too bright,val,iot_hue_lightdim,none,massive,massive-en-3701,this is too bright,this is too bright
+3704,en,takeaway,takeaway_order,order two large pizzas and pieces of hot wings from dominoes,val,takeaway_order,none,massive,massive-en-3704,order two large pizzas and pieces of hot wings from dominoes,order two large pizzas and pieces of hot wings from dominoes
+3803,en,iot,iot_wemo_off,please turn off the smart plug socket,val,iot_wemo_off,none,massive,massive-en-3803,please turn off the smart plug socket,please turn off the smart plug socket
+3804,en,iot,iot_wemo_on,turn on the wemo plug socket,val,iot_wemo_on,none,massive,massive-en-3804,turn on the wemo plug socket,turn on the wemo plug socket
+3840,en,iot,iot_cleaning,turn on the roomba,val,iot_cleaning,none,massive,massive-en-3840,turn on the roomba,turn on the roomba
+3843,en,takeaway,takeaway_order,order me chinese food,val,takeaway_order,none,massive,massive-en-3843,order me chinese food,order me chinese food
+3895,en,iot,iot_hue_lightup,please increase the light,val,iot_hue_lightup,none,massive,massive-en-3895,please increase the light,please increase the light
+4012,en,iot,iot_cleaning,get the cleaning on,val,iot_cleaning,none,massive,massive-en-4012,get the cleaning on,get the cleaning on
+4156,en,general,general_joke,hey olly tell me a joke,val,general_joke,none,massive,massive-en-4156,hey olly tell me a joke,hey olly tell me a joke
+4161,en,takeaway,takeaway_order,i want to order some chinese food tonight what's delivering to me,val,takeaway_order,none,massive,massive-en-4161,i want to order some chinese food tonight what s delivering to me,i want to order some chinese food tonight what s delivering to me
+4175,en,iot,iot_hue_lightchange,hey siri chance the current light settings,val,iot_hue_lightchange,none,massive,massive-en-4175,hey siri chance the current light settings,hey siri chance the current light settings
+4277,en,iot,iot_hue_lightoff,can you turn off my desk lamp,val,iot_hue_lightoff,none,massive,massive-en-4277,can you turn off my desk lamp,can you turn off my desk lamp
+4278,en,iot,iot_hue_lightoff,desk lamp one off,val,iot_hue_lightoff,none,massive,massive-en-4278,desk lamp one off,desk lamp one off
+4287,en,iot,iot_hue_lightup,light up,val,iot_hue_lightup,none,massive,massive-en-4287,light up,light up
+4338,en,takeaway,takeaway_order,show me delivery near me,val,takeaway_order,none,massive,massive-en-4338,show me delivery near me,show me delivery near me
+4339,en,takeaway,takeaway_order,open the internet,val,takeaway_order,none,massive,massive-en-4339,open the internet,open the internet
+4387,en,iot,iot_hue_lightup,raise the lamp's light,val,iot_hue_lightup,none,massive,massive-en-4387,raise the lamp s light,raise the lamp s light
+4440,en,iot,iot_hue_lightdim,dim all interior lights,val,iot_hue_lightdim,none,massive,massive-en-4440,dim all interior lights,dim all interior lights
+4494,en,iot,iot_hue_lightchange,turn my lights to some random color,val,iot_hue_lightchange,none,massive,massive-en-4494,turn my lights to some random color,turn my lights to some random color
+4515,en,iot,iot_hue_lightchange,change the color of the lights,val,iot_hue_lightchange,none,massive,massive-en-4515,change the color of the lights,change the color of the lights
+4545,en,takeaway,takeaway_order,order a double bacon cheeseburger with bacon an white american cheese,val,takeaway_order,none,massive,massive-en-4545,order a double bacon cheeseburger with bacon an white american cheese,order a double bacon cheeseburger with bacon an white american cheese
+4573,en,iot,iot_hue_lightup,turn up the lights in here please,val,iot_hue_lightup,none,massive,massive-en-4573,turn up the lights in here please,turn up the lights in here please
+4600,en,takeaway,takeaway_query,tell me which catering packages are available,val,takeaway_query,none,massive,massive-en-4600,tell me which catering packages are available,tell me which catering packages are available
+4604,en,takeaway,takeaway_query,check to see if pizza hut has my order on the way,val,takeaway_query,none,massive,massive-en-4604,check to see if pizza hut has my order on the way,check to see if pizza hut has my order on the way
+4619,en,iot,iot_wemo_on,start new smart socket,val,iot_wemo_on,none,massive,massive-en-4619,start new smart socket,start new smart socket
+4622,en,iot,iot_hue_lightdim,dim the lights to level two,val,iot_hue_lightdim,none,massive,massive-en-4622,dim the lights to level two,dim the lights to level two
+4632,en,iot,iot_hue_lightoff,please turn bedroom lights off,val,iot_hue_lightoff,none,massive,massive-en-4632,please turn bedroom lights off,please turn bedroom lights off
+4645,en,takeaway,takeaway_query,when is taco bell going to arrive,val,takeaway_query,none,massive,massive-en-4645,when is taco bell going to arrive,when is taco bell going to arrive
+4745,en,general,general_joke,i want a nerd joke,val,general_joke,none,massive,massive-en-4745,i want a nerd joke,i want a nerd joke
+4775,en,general,general_joke,can you tell me a nice joke,val,general_joke,none,massive,massive-en-4775,can you tell me a nice joke,can you tell me a nice joke
+4796,en,iot,iot_hue_lightoff,shut off the lights in the bedroom,val,iot_hue_lightoff,none,massive,massive-en-4796,shut off the lights in the bedroom,shut off the lights in the bedroom
+4827,en,iot,iot_hue_lightchange,can the lights be changed to green,val,iot_hue_lightchange,none,massive,massive-en-4827,can the lights be changed to green,can the lights be changed to green
+4867,en,takeaway,takeaway_order,call pf chang's to order me egg foo young,val,takeaway_order,none,massive,massive-en-4867,call pf chang s to order me egg foo young,call pf chang s to order me egg foo young
+4908,en,general,general_joke,open some cools jokes,val,general_joke,none,massive,massive-en-4908,open some cools jokes,open some cools jokes
+4911,en,general,general_joke,tell me joke,val,general_joke,none,massive,massive-en-4911,tell me joke,tell me joke
+4939,en,iot,iot_hue_lightoff,switch the lights to off,val,iot_hue_lightoff,none,massive,massive-en-4939,switch the lights to off,switch the lights to off
+5025,en,iot,iot_hue_lightchange,show us red,val,iot_hue_lightchange,none,massive,massive-en-5025,show us red,show us red
+5063,en,iot,iot_hue_lightchange,change the opacity of the color,val,iot_hue_lightchange,none,massive,massive-en-5063,change the opacity of the color,change the opacity of the color
+5064,en,iot,iot_hue_lightchange,replace color from light to dark,val,iot_hue_lightchange,none,massive,massive-en-5064,replace color from light to dark,replace color from light to dark
+5069,en,iot,iot_wemo_on,turn wemo on,val,iot_wemo_on,none,massive,massive-en-5069,turn wemo on,turn wemo on
+5094,en,iot,iot_hue_lighton,it's dark in here,val,iot_hue_lighton,none,massive,massive-en-5094,it s dark in here,it s dark in here
+5150,en,iot,iot_coffee,would you set the coffee maker running,val,iot_coffee,none,massive,massive-en-5150,would you set the coffee maker running,would you set the coffee maker running
+5154,en,iot,iot_hue_lightoff,it's too bright in here can you turn a light off,val,iot_hue_lightoff,none,massive,massive-en-5154,it s too bright in here can you turn a light off,it s too bright in here can you turn a light off
+5183,en,general,general_joke,tell a joke,val,general_joke,none,massive,massive-en-5183,tell a joke,tell a joke
+5202,en,iot,iot_hue_lightoff,kindly switch off the light in the drawing hall,val,iot_hue_lightoff,none,massive,massive-en-5202,kindly switch off the light in the drawing hall,kindly switch off the light in the drawing hall
+5242,en,iot,iot_hue_lightoff,please turn the lights off in the bathroom,val,iot_hue_lightoff,none,massive,massive-en-5242,please turn the lights off in the bathroom,please turn the lights off in the bathroom
+5404,en,iot,iot_cleaning,get the roomba to clean the kitchen,val,iot_cleaning,none,massive,massive-en-5404,get the roomba to clean the kitchen,get the roomba to clean the kitchen
+5471,en,iot,iot_hue_lightup,olly brighten the lights,val,iot_hue_lightup,none,massive,massive-en-5471,olly brighten the lights,olly brighten the lights
+5476,en,iot,iot_hue_lightchange,change the color of lights,val,iot_hue_lightchange,none,massive,massive-en-5476,change the color of lights,change the color of lights
+5478,en,iot,iot_hue_lightchange,olly activate a different light color,val,iot_hue_lightchange,none,massive,massive-en-5478,olly activate a different light color,olly activate a different light color
+5479,en,iot,iot_hue_lightchange,activate a different light color,val,iot_hue_lightchange,none,massive,massive-en-5479,activate a different light color,activate a different light color
+5518,en,iot,iot_hue_lightoff,turn the room light off,val,iot_hue_lightoff,none,massive,massive-en-5518,turn the room light off,turn the room light off
+5596,en,takeaway,takeaway_order,closest chipotle,val,takeaway_order,none,massive,massive-en-5596,closest chipotle,closest chipotle
+5651,en,iot,iot_wemo_on,turn wemo plug socket on,val,iot_wemo_on,none,massive,massive-en-5651,turn wemo plug socket on,turn wemo plug socket on
+5653,en,iot,iot_wemo_on,toggle wemo plug socket on,val,iot_wemo_on,none,massive,massive-en-5653,toggle wemo plug socket on,toggle wemo plug socket on
+5696,en,iot,iot_cleaning,start house cleaning,val,iot_cleaning,none,massive,massive-en-5696,start house cleaning,start house cleaning
+5728,en,iot,iot_hue_lightup,every light of room increase its intensity,val,iot_hue_lightup,none,massive,massive-en-5728,every light of room increase its intensity,every light of room increase its intensity
+5770,en,takeaway,takeaway_query,does restaurant royale deliver takeaway,val,takeaway_query,none,massive,massive-en-5770,does restaurant royale deliver takeaway,does restaurant royale deliver takeaway
+5854,en,iot,iot_cleaning,activate robot vacuum,val,iot_cleaning,none,massive,massive-en-5854,activate robot vacuum,activate robot vacuum
+5968,en,takeaway,takeaway_order,i want to order food,val,takeaway_order,none,massive,massive-en-5968,i want to order food,i want to order food
+5989,en,iot,iot_coffee,i would like some coffee now,val,iot_coffee,none,massive,massive-en-5989,i would like some coffee now,i would like some coffee now
+5990,en,iot,iot_coffee,prepare my morning coffee,val,iot_coffee,none,massive,massive-en-5990,prepare my morning coffee,prepare my morning coffee
+6001,en,iot,iot_coffee,it's coffee time,val,iot_coffee,none,massive,massive-en-6001,it s coffee time,it s coffee time
+6008,en,takeaway,takeaway_query,is my order at domino's ready,val,takeaway_query,none,massive,massive-en-6008,is my order at domino s ready,is my order at domino s ready
+6009,en,takeaway,takeaway_query,when can i pick up my chinese food,val,takeaway_query,none,massive,massive-en-6009,when can i pick up my chinese food,when can i pick up my chinese food
+6052,en,iot,iot_hue_lightup,alexa increase the brightness of the light it is hard to see down here,val,iot_hue_lightup,none,massive,massive-en-6052,alexa increase the brightness of the light it is hard to see down here,alexa increase the brightness of the light it is hard to see down here
+6071,en,takeaway,takeaway_query,is my order ready for pick up now,val,takeaway_query,none,massive,massive-en-6071,is my order ready for pick up now,is my order ready for pick up now
+6111,en,takeaway,takeaway_order,hey olly order two wings with french fries from the chinese food store,val,takeaway_order,none,massive,massive-en-6111,hey olly order two wings with french fries from the chinese food store,hey olly order two wings with french fries from the chinese food store
+6115,en,takeaway,takeaway_order,hey olly order a pizza pie with extra cheese,val,takeaway_order,none,massive,massive-en-6115,hey olly order a pizza pie with extra cheese,hey olly order a pizza pie with extra cheese
+6136,en,general,general_joke,be funny for me,val,general_joke,none,massive,massive-en-6136,be funny for me,be funny for me
+6158,en,iot,iot_cleaning,turn on the vacuum,val,iot_cleaning,none,massive,massive-en-6158,turn on the vacuum,turn on the vacuum
+6176,en,takeaway,takeaway_query,can i get delivery from here,val,takeaway_query,none,massive,massive-en-6176,can i get delivery from here,can i get delivery from here
+6490,en,general,general_joke,sarcastic jokes,val,general_joke,none,massive,massive-en-6490,sarcastic jokes,sarcastic jokes
+6607,en,general,general_joke,jokes,val,general_joke,none,massive,massive-en-6607,jokes,jokes
+6648,en,general,general_joke,joke of the day,val,general_joke,none,massive,massive-en-6648,joke of the day,joke of the day
+11,tr,iot,iot_hue_lightoff,ışıkları kapat lütfen,val,iot_hue_lightoff,none,massive,massive-tr-11,ışıkları kapat lütfen,isiklari kapat lutfen
+17,tr,iot,iot_hue_lightdim,koridordaki ışıkları kıs,val,iot_hue_lightdim,none,massive,massive-tr-17,koridordaki ışıkları kıs,koridordaki isiklari kis
+24,tr,iot,iot_hue_lightdim,odayı daha karanlık yap,val,iot_hue_lightdim,none,massive,massive-tr-24,odayı daha karanlık yap,odayi daha karanlik yap
+26,tr,iot,iot_cleaning,daireyi temizle,val,iot_cleaning,none,massive,massive-tr-26,daireyi temizle,daireyi temizle
+30,tr,iot,iot_cleaning,temizlik iyidir toz çok kötü şimdi sihrini yap halımı temizle,val,iot_cleaning,none,massive,massive-tr-30,temizlik iyidir toz çok kötü şimdi sihrini yap halımı temizle,temizlik iyidir toz cok kotu simdi sihrini yap halimi temizle
+53,tr,takeaway,takeaway_query,çin yemeği için en fazla yıldızlı teslimat seçeneklerini listele,val,takeaway_query,none,massive,massive-tr-53,çin yemeği için en fazla yıldızlı teslimat seçeneklerini listele,cin yemegi icin en fazla yildizli teslimat seceneklerini listele
+58,tr,takeaway,takeaway_query,migrostan benim ıspanaklı börek paketimi bul,val,takeaway_query,none,massive,massive-tr-58,migrostan benim ıspanaklı börek paketimi bul,migrostan benim ispanakli borek paketimi bul
+90,tr,takeaway,takeaway_query,akşam yemeği siparişimde neler var,val,takeaway_query,none,massive,massive-tr-90,akşam yemeği siparişimde neler var,aksam yemegi siparisimde neler var
+167,tr,general,general_greet,hey,val,general_greet,none,massive,massive-tr-167,hey,hey
+312,tr,iot,iot_hue_lighton,içerisi çok karanlık,val,iot_hue_lighton,none,massive,massive-tr-312,içerisi çok karanlık,icerisi cok karanlik
+415,tr,iot,iot_hue_lightchange,benim ışıklarımı değiştir böylece iyi bir uyku çekebileyim,val,iot_hue_lightchange,none,massive,massive-tr-415,benim ışıklarımı değiştir böylece iyi bir uyku çekebileyim,benim isiklarimi degistir boylece iyi bir uyku cekebileyim
+638,tr,general,general_joke,bana bir hayvan fıkrası anlatır mısın,val,general_joke,none,massive,massive-tr-638,bana bir hayvan fıkrası anlatır mısın,bana bir hayvan fikrasi anlatir misin
+678,tr,iot,iot_wemo_on,ben eve gelince t. v. prizi aç,val,iot_wemo_on,none,massive,massive-tr-678,ben eve gelince t v prizi aç,ben eve gelince t v prizi ac
+697,tr,iot,iot_hue_lightup,ışıkları biraz daha parlaklaştırır mısın lütfen,val,iot_hue_lightup,none,massive,massive-tr-697,ışıkları biraz daha parlaklaştırır mısın lütfen,isiklari biraz daha parlaklastirir misin lutfen
+710,tr,iot,iot_coffee,kahve hazırla,val,iot_coffee,none,massive,massive-tr-710,kahve hazırla,kahve hazirla
+756,tr,iot,iot_wemo_off,wemo prizi kapatabilir misin,val,iot_wemo_off,none,massive,massive-tr-756,wemo prizi kapatabilir misin,wemo prizi kapatabilir misin
+925,tr,iot,iot_hue_lightdim,lütfen ışıkları biraz daha kıs,val,iot_hue_lightdim,none,massive,massive-tr-925,lütfen ışıkları biraz daha kıs,lutfen isiklari biraz daha kis
+966,tr,takeaway,takeaway_query,quick china paket servis siparişi alıyor mu,val,takeaway_query,none,massive,massive-tr-966,quick china paket servis siparişi alıyor mu,quick china paket servis siparisi aliyor mu
+1023,tr,takeaway,takeaway_query,birbiçer kebabın paket servisi almama uygun olup olmadığını bul,val,takeaway_query,none,massive,massive-tr-1023,birbiçer kebabın paket servisi almama uygun olup olmadığını bul,birbicer kebabin paket servisi almama uygun olup olmadigini bul
+1058,tr,iot,iot_cleaning,bugün öğleden sonra birde robot süpürgeyi çalıştır,val,iot_cleaning,none,massive,massive-tr-1058,bugün öğleden sonra birde robot süpürgeyi çalıştır,bugun ogleden sonra birde robot supurgeyi calistir
+1210,tr,takeaway,takeaway_order,hoş bir restoran dan yemek sipariş et,val,takeaway_order,none,massive,massive-tr-1210,hoş bir restoran dan yemek sipariş et,hos bir restoran dan yemek siparis et
+1215,tr,iot,iot_hue_lightchange,olly oturma odasını mavi yap,val,iot_hue_lightchange,none,massive,massive-tr-1215,olly oturma odasını mavi yap,olly oturma odasini mavi yap
+1216,tr,iot,iot_hue_lightchange,oturma odasını mavi yap,val,iot_hue_lightchange,none,massive,massive-tr-1216,oturma odasını mavi yap,oturma odasini mavi yap
+1257,tr,general,general_joke,bana internetteki en iyi tık tık şakasını bul,val,general_joke,none,massive,massive-tr-1257,bana internetteki en iyi tık tık şakasını bul,bana internetteki en iyi tik tik sakasini bul
+1357,tr,iot,iot_hue_lightchange,gece lambası ayarlarına geç,val,iot_hue_lightchange,none,massive,massive-tr-1357,gece lambası ayarlarına geç,gece lambasi ayarlarina gec
+1380,tr,takeaway,takeaway_query,banadura'dan teslim almak üzere sipariş verebilir miyim,val,takeaway_query,none,massive,massive-tr-1380,banadura dan teslim almak üzere sipariş verebilir miyim,banadura dan teslim almak uzere siparis verebilir miyim
+1416,tr,takeaway,takeaway_order,paket yemek sipariş et,val,takeaway_order,none,massive,massive-tr-1416,paket yemek sipariş et,paket yemek siparis et
+1478,tr,general,general_joke,yeni fıkra araştır,val,general_joke,none,massive,massive-tr-1478,yeni fıkra araştır,yeni fikra arastir
+1569,tr,iot,iot_coffee,bir espresso alabilir miyim lütfen,val,iot_coffee,none,massive,massive-tr-1569,bir espresso alabilir miyim lütfen,bir espresso alabilir miyim lutfen
+1576,tr,iot,iot_cleaning,olly elektrikli süpürgeyi çalıştır,val,iot_cleaning,none,massive,massive-tr-1576,olly elektrikli süpürgeyi çalıştır,olly elektrikli supurgeyi calistir
+1599,tr,iot,iot_cleaning,robot süpürgeyi çalıştırabilir misin,val,iot_cleaning,none,massive,massive-tr-1599,robot süpürgeyi çalıştırabilir misin,robot supurgeyi calistirabilir misin
+1702,tr,iot,iot_cleaning,her gün sabah on ile onbir arası elektrikli süpürgemi çalıştır,val,iot_cleaning,none,massive,massive-tr-1702,her gün sabah on ile onbir arası elektrikli süpürgemi çalıştır,her gun sabah on ile onbir arasi elektrikli supurgemi calistir
+1805,tr,iot,iot_hue_lightup,biraz daha fazla ışık lazım,val,iot_hue_lightup,none,massive,massive-tr-1805,biraz daha fazla ışık lazım,biraz daha fazla isik lazim
+1888,tr,iot,iot_hue_lightdim,bana mutfakta loş ışık ver,val,iot_hue_lightdim,none,massive,massive-tr-1888,bana mutfakta loş ışık ver,bana mutfakta los isik ver
+1910,tr,takeaway,takeaway_query,restoran sipariş durumu,val,takeaway_query,none,massive,massive-tr-1910,restoran sipariş durumu,restoran siparis durumu
+1925,tr,iot,iot_cleaning,robot süpürgemi çalıştır,val,iot_cleaning,none,massive,massive-tr-1925,robot süpürgemi çalıştır,robot supurgemi calistir
+1943,tr,iot,iot_cleaning,ev temizliğine başla,val,iot_cleaning,none,massive,massive-tr-1943,ev temizliğine başla,ev temizligine basla
+1945,tr,iot,iot_hue_lightoff,ışığı kapat,val,iot_hue_lightoff,none,massive,massive-tr-1945,ışığı kapat,isigi kapat
+1948,tr,general,general_joke,komik espri,val,general_joke,none,massive,massive-tr-1948,komik espri,komik espri
+1988,tr,iot,iot_hue_lighton,hey alexa dairemde disko ışıklarını aç ve parti başlasın,val,iot_hue_lighton,none,massive,massive-tr-1988,hey alexa dairemde disko ışıklarını aç ve parti başlasın,hey alexa dairemde disko isiklarini ac ve parti baslasin
+2095,tr,takeaway,takeaway_query,saklı bahçe teslimat yapıyor mu,val,takeaway_query,none,massive,massive-tr-2095,saklı bahçe teslimat yapıyor mu,sakli bahce teslimat yapiyor mu
+2118,tr,iot,iot_hue_lightchange,modu ayarla lütfen,val,iot_hue_lightchange,none,massive,massive-tr-2118,modu ayarla lütfen,modu ayarla lutfen
+2120,tr,iot,iot_hue_lightchange,ışıkları maviye çevir,val,iot_hue_lightchange,none,massive,massive-tr-2120,ışıkları maviye çevir,isiklari maviye cevir
+2122,tr,iot,iot_hue_lightchange,oturma odası ışıklarını kırmızıya çevir,val,iot_hue_lightchange,none,massive,massive-tr-2122,oturma odası ışıklarını kırmızıya çevir,oturma odasi isiklarini kirmiziya cevir
+2187,tr,iot,iot_hue_lightoff,yatak odamın ışığını kapatabilir misin lütfen,val,iot_hue_lightoff,none,massive,massive-tr-2187,yatak odamın ışığını kapatabilir misin lütfen,yatak odamin isigini kapatabilir misin lutfen
+2196,tr,general,general_joke,hey beni mutlu edecek bir fıkra paylaş,val,general_joke,none,massive,massive-tr-2196,hey beni mutlu edecek bir fıkra paylaş,hey beni mutlu edecek bir fikra paylas
+2246,tr,iot,iot_hue_lightoff,gardırop ışığını kapat,val,iot_hue_lightoff,none,massive,massive-tr-2246,gardırop ışığını kapat,gardirop isigini kapat
+2282,tr,iot,iot_hue_lightchange,evimdeki bütün ışıkları mavi renge ayarla,val,iot_hue_lightchange,none,massive,massive-tr-2282,evimdeki bütün ışıkları mavi renge ayarla,evimdeki butun isiklari mavi renge ayarla
+2312,tr,iot,iot_hue_lightdim,olly ışıkları yediye indir,val,iot_hue_lightdim,none,massive,massive-tr-2312,olly ışıkları yediye indir,olly isiklari yediye indir
+2313,tr,iot,iot_hue_lightdim,ışıklar yediye insin,val,iot_hue_lightdim,none,massive,massive-tr-2313,ışıklar yediye insin,isiklar yediye insin
+2318,tr,iot,iot_hue_lightdim,ışığın gücünü en aza indir,val,iot_hue_lightdim,none,massive,massive-tr-2318,ışığın gücünü en aza indir,isigin gucunu en aza indir
+2464,tr,iot,iot_hue_lightoff,olly ışıkları kapat,val,iot_hue_lightoff,none,massive,massive-tr-2464,olly ışıkları kapat,olly isiklari kapat
+2470,tr,iot,iot_hue_lighton,ışıkları aç,val,iot_hue_lighton,none,massive,massive-tr-2470,ışıkları aç,isiklari ac
+2478,tr,takeaway,takeaway_order,paket iste,val,takeaway_order,none,massive,massive-tr-2478,paket iste,paket iste
+2483,tr,iot,iot_hue_lightdim,tüm ışıkları kısacak mısın,val,iot_hue_lightdim,none,massive,massive-tr-2483,tüm ışıkları kısacak mısın,tum isiklari kisacak misin
+2518,tr,iot,iot_cleaning,robot süpürgeyi nasıl başlatabilirim,val,iot_cleaning,none,massive,massive-tr-2518,robot süpürgeyi nasıl başlatabilirim,robot supurgeyi nasil baslatabilirim
+2520,tr,iot,iot_cleaning,lütfen robot süpürgeyi açmamda bana yardım et,val,iot_cleaning,none,massive,massive-tr-2520,lütfen robot süpürgeyi açmamda bana yardım et,lutfen robot supurgeyi acmamda bana yardim et
+2538,tr,takeaway,takeaway_query,son siparişimin durumu nedir,val,takeaway_query,none,massive,massive-tr-2538,son siparişimin durumu nedir,son siparisimin durumu nedir
+2576,tr,iot,iot_hue_lightdim,lütfen yatak odasındaki ışıkları kıs,val,iot_hue_lightdim,none,massive,massive-tr-2576,lütfen yatak odasındaki ışıkları kıs,lutfen yatak odasindaki isiklari kis
+2599,tr,iot,iot_coffee,şimdi kahve alabilirim,val,iot_coffee,none,massive,massive-tr-2599,şimdi kahve alabilirim,simdi kahve alabilirim
+2600,tr,iot,iot_hue_lightoff,başucu lambamı kapat lütfen,val,iot_hue_lightoff,none,massive,massive-tr-2600,başucu lambamı kapat lütfen,basucu lambami kapat lutfen
+2620,tr,iot,iot_cleaning,lütfen elektrik süpürgesini çalıştır,val,iot_cleaning,none,massive,massive-tr-2620,lütfen elektrik süpürgesini çalıştır,lutfen elektrik supurgesini calistir
+2621,tr,iot,iot_cleaning,elektrik süpürgesini çalıştır şimdi,val,iot_cleaning,none,massive,massive-tr-2621,elektrik süpürgesini çalıştır şimdi,elektrik supurgesini calistir simdi
+2687,tr,takeaway,takeaway_order,siparişi onayla,val,takeaway_order,none,massive,massive-tr-2687,siparişi onayla,siparisi onayla
+2693,tr,iot,iot_coffee,benim için bir fincan kahve yap,val,iot_coffee,none,massive,massive-tr-2693,benim için bir fincan kahve yap,benim icin bir fincan kahve yap
+2710,tr,iot,iot_hue_lightoff,akımı kapat,val,iot_hue_lightoff,none,massive,massive-tr-2710,akımı kapat,akimi kapat
+2740,tr,takeaway,takeaway_query,bu restoran dan paket sipariş edebiliyor muyum,val,takeaway_query,none,massive,massive-tr-2740,bu restoran dan paket sipariş edebiliyor muyum,bu restoran dan paket siparis edebiliyor muyum
+2741,tr,takeaway,takeaway_query,benim favorim lokanta teslimat yapıyor mu,val,takeaway_query,none,massive,massive-tr-2741,benim favorim lokanta teslimat yapıyor mu,benim favorim lokanta teslimat yapiyor mu
+2742,tr,takeaway,takeaway_query,paket servis hizmetleri var mı,val,takeaway_query,none,massive,massive-tr-2742,paket servis hizmetleri var mı,paket servis hizmetleri var mi
+2749,tr,iot,iot_coffee,kahve makinesini başlat,val,iot_coffee,none,massive,massive-tr-2749,kahve makinesini başlat,kahve makinesini baslat
+2810,tr,iot,iot_hue_lightup,oturma odasındaki ışıkların parlaklığını arttır,val,iot_hue_lightup,none,massive,massive-tr-2810,oturma odasındaki ışıkların parlaklığını arttır,oturma odasindaki isiklarin parlakligini arttir
+2814,tr,iot,iot_coffee,kahve demle,val,iot_coffee,none,massive,massive-tr-2814,kahve demle,kahve demle
+2821,tr,iot,iot_hue_lightchange,ışık renklerini maviden beyaza çevir,val,iot_hue_lightchange,none,massive,massive-tr-2821,ışık renklerini maviden beyaza çevir,isik renklerini maviden beyaza cevir
+2822,tr,iot,iot_hue_lightchange,evdeki ışıkları kırmızı yap,val,iot_hue_lightchange,none,massive,massive-tr-2822,evdeki ışıkları kırmızı yap,evdeki isiklari kirmizi yap
+2834,tr,iot,iot_cleaning,elektrik süpürgesini bir saat çalıştır,val,iot_cleaning,none,massive,massive-tr-2834,elektrik süpürgesini bir saat çalıştır,elektrik supurgesini bir saat calistir
+2841,tr,iot,iot_hue_lightchange,oturma odasındaki ışıkları kırmızı ayarla,val,iot_hue_lightchange,none,massive,massive-tr-2841,oturma odasındaki ışıkları kırmızı ayarla,oturma odasindaki isiklari kirmizi ayarla
+2844,tr,takeaway,takeaway_query,restoranın teslimat durumu nasıl gidiyor,val,takeaway_query,none,massive,massive-tr-2844,restoranın teslimat durumu nasıl gidiyor,restoranin teslimat durumu nasil gidiyor
+2851,tr,takeaway,takeaway_query,tadım pizza da paket servis var mı,val,takeaway_query,none,massive,massive-tr-2851,tadım pizza da paket servis var mı,tadim pizza da paket servis var mi
+2863,tr,iot,iot_hue_lightchange,ışık rengini maviye çevir,val,iot_hue_lightchange,none,massive,massive-tr-2863,ışık rengini maviye çevir,isik rengini maviye cevir
+2901,tr,takeaway,takeaway_order,salcılar dürüm paket iste,val,takeaway_order,none,massive,massive-tr-2901,salcılar dürüm paket iste,salcilar durum paket iste
+2946,tr,iot,iot_wemo_off,alexa büyük yatak odasındaki klimayı kapat,val,iot_wemo_off,none,massive,massive-tr-2946,alexa büyük yatak odasındaki klimayı kapat,alexa buyuk yatak odasindaki klimayi kapat
+2971,tr,iot,iot_coffee,lütfen kahveyi başlat,val,iot_coffee,none,massive,massive-tr-2971,lütfen kahveyi başlat,lutfen kahveyi baslat
+2979,tr,iot,iot_hue_lightdim,gece zamanı modu,val,iot_hue_lightdim,none,massive,massive-tr-2979,gece zamanı modu,gece zamani modu
+3018,tr,takeaway,takeaway_query,yemeğimi bul,val,takeaway_query,none,massive,massive-tr-3018,yemeğimi bul,yemegimi bul
+3046,tr,takeaway,takeaway_order,canım cidden çok çin yemeği istiyor şu anda lütfen bir paket siparişi oluştur,val,takeaway_order,none,massive,massive-tr-3046,canım cidden çok çin yemeği istiyor şu anda lütfen bir paket siparişi oluştur,canim cidden cok cin yemegi istiyor su anda lutfen bir paket siparisi olustur
+3082,tr,takeaway,takeaway_order,iki sucuklu pizza ihtiyacım var,val,takeaway_order,none,massive,massive-tr-3082,iki sucuklu pizza ihtiyacım var,iki sucuklu pizza ihtiyacim var
+3134,tr,takeaway,takeaway_order,en yakın nerelerden paket servisi yapabilirim ben,val,takeaway_order,none,massive,massive-tr-3134,en yakın nerelerden paket servisi yapabilirim ben,en yakin nerelerden paket servisi yapabilirim ben
+3183,tr,iot,iot_wemo_off,güç kapama açık,val,iot_wemo_off,none,massive,massive-tr-3183,güç kapama açık,guc kapama acik
+3281,tr,iot,iot_hue_lightdim,olly ışıkları azalt lütfen,val,iot_hue_lightdim,none,massive,massive-tr-3281,olly ışıkları azalt lütfen,olly isiklari azalt lutfen
+3296,tr,takeaway,takeaway_query,en yakın çin lokantası teslimat yapıyor mu,val,takeaway_query,none,massive,massive-tr-3296,en yakın çin lokantası teslimat yapıyor mu,en yakin cin lokantasi teslimat yapiyor mu
+3377,tr,iot,iot_hue_lightdim,aydınlatmayı azalt,val,iot_hue_lightdim,none,massive,massive-tr-3377,aydınlatmayı azalt,aydinlatmayi azalt
+3394,tr,iot,iot_wemo_on,lütfen wemo prizi aç,val,iot_wemo_on,none,massive,massive-tr-3394,lütfen wemo prizi aç,lutfen wemo prizi ac
+3437,tr,iot,iot_hue_lightup,ışıkları artır lütfen,val,iot_hue_lightup,none,massive,massive-tr-3437,ışıkları artır lütfen,isiklari artir lutfen
+3464,tr,iot,iot_hue_lighton,lütfen tüm dış ışıkları aç,val,iot_hue_lighton,none,massive,massive-tr-3464,lütfen tüm dış ışıkları aç,lutfen tum dis isiklari ac
+3528,tr,takeaway,takeaway_order,bana paket servisi yemek al,val,takeaway_order,none,massive,massive-tr-3528,bana paket servisi yemek al,bana paket servisi yemek al
+3563,tr,iot,iot_coffee,lütfen bana kahve yap,val,iot_coffee,none,massive,massive-tr-3563,lütfen bana kahve yap,lutfen bana kahve yap
+3609,tr,iot,iot_coffee,lütfen benim için bir kahve yap,val,iot_coffee,none,massive,massive-tr-3609,lütfen benim için bir kahve yap,lutfen benim icin bir kahve yap
+3701,tr,iot,iot_hue_lightdim,çok parlak,val,iot_hue_lightdim,none,massive,massive-tr-3701,çok parlak,cok parlak
+3704,tr,takeaway,takeaway_order,dominoes dan iki pizza ve acılı kanat parçaları sipariş et,val,takeaway_order,none,massive,massive-tr-3704,dominoes dan iki pizza ve acılı kanat parçaları sipariş et,dominoes dan iki pizza ve acili kanat parcalari siparis et
+3803,tr,iot,iot_wemo_off,lütfen akıllı prizi kapat,val,iot_wemo_off,none,massive,massive-tr-3803,lütfen akıllı prizi kapat,lutfen akilli prizi kapat
+3843,tr,takeaway,takeaway_order,bana çin yemeği sipariş et,val,takeaway_order,none,massive,massive-tr-3843,bana çin yemeği sipariş et,bana cin yemegi siparis et
+3895,tr,iot,iot_hue_lightup,lütfen ışığı artırın,val,iot_hue_lightup,none,massive,massive-tr-3895,lütfen ışığı artırın,lutfen isigi artirin
+4012,tr,iot,iot_cleaning,süpürgeyi aç,val,iot_cleaning,none,massive,massive-tr-4012,süpürgeyi aç,supurgeyi ac
+4156,tr,general,general_joke,hey olly bana bir fıkra anlat,val,general_joke,none,massive,massive-tr-4156,hey olly bana bir fıkra anlat,hey olly bana bir fikra anlat
+4161,tr,takeaway,takeaway_order,bu akşam adrese teslim çin yemeği sipariş etmek istiyorum,val,takeaway_order,none,massive,massive-tr-4161,bu akşam adrese teslim çin yemeği sipariş etmek istiyorum,bu aksam adrese teslim cin yemegi siparis etmek istiyorum
+4175,tr,iot,iot_hue_lightchange,hey siri mevcut ışık ayarlarını değiştir,val,iot_hue_lightchange,none,massive,massive-tr-4175,hey siri mevcut ışık ayarlarını değiştir,hey siri mevcut isik ayarlarini degistir
+4277,tr,iot,iot_hue_lightoff,masa lambamı kapatır mısın,val,iot_hue_lightoff,none,massive,massive-tr-4277,masa lambamı kapatır mısın,masa lambami kapatir misin
+4278,tr,iot,iot_hue_lightoff,birinci masa lambası kapansın,val,iot_hue_lightoff,none,massive,massive-tr-4278,birinci masa lambası kapansın,birinci masa lambasi kapansin
+4287,tr,iot,iot_hue_lightup,ışık aç,val,iot_hue_lightup,none,massive,massive-tr-4287,ışık aç,isik ac
+4338,tr,takeaway,takeaway_order,bana yakın adrese teslimat göster,val,takeaway_order,none,massive,massive-tr-4338,bana yakın adrese teslimat göster,bana yakin adrese teslimat goster
+4339,tr,takeaway,takeaway_order,interneti aç,val,takeaway_order,none,massive,massive-tr-4339,interneti aç,interneti ac
+4387,tr,iot,iot_hue_lightup,lambanın ışığını arttır,val,iot_hue_lightup,none,massive,massive-tr-4387,lambanın ışığını arttır,lambanin isigini arttir
+4440,tr,iot,iot_hue_lightdim,tüm iç mekan ışıklarını karart,val,iot_hue_lightdim,none,massive,massive-tr-4440,tüm iç mekan ışıklarını karart,tum ic mekan isiklarini karart
+4494,tr,iot,iot_hue_lightchange,ışıklarımı herhangi bir renge çevir,val,iot_hue_lightchange,none,massive,massive-tr-4494,ışıklarımı herhangi bir renge çevir,isiklarimi herhangi bir renge cevir
+4515,tr,iot,iot_hue_lightchange,ışıkların rengini değiştir,val,iot_hue_lightchange,none,massive,massive-tr-4515,ışıkların rengini değiştir,isiklarin rengini degistir
+4545,tr,takeaway,takeaway_order,duble pastırmalı çizburger pastırma ve amerikan peyniri sipariş et,val,takeaway_order,none,massive,massive-tr-4545,duble pastırmalı çizburger pastırma ve amerikan peyniri sipariş et,duble pastirmali cizburger pastirma ve amerikan peyniri siparis et
+4573,tr,iot,iot_hue_lightup,buradaki ışıkları daha yükselt lütfen,val,iot_hue_lightup,none,massive,massive-tr-4573,buradaki ışıkları daha yükselt lütfen,buradaki isiklari daha yukselt lutfen
+4600,tr,takeaway,takeaway_query,bana hangi catering paket servislerinin uygun olduğunu söyle,val,takeaway_query,none,massive,massive-tr-4600,bana hangi catering paket servislerinin uygun olduğunu söyle,bana hangi catering paket servislerinin uygun oldugunu soyle
+4604,tr,takeaway,takeaway_query,benim pizza hut siparişim yolda mı bir bakıver,val,takeaway_query,none,massive,massive-tr-4604,benim pizza hut siparişim yolda mı bir bakıver,benim pizza hut siparisim yolda mi bir bakiver
+4619,tr,iot,iot_wemo_on,yeni akıllı soketi çalıştır,val,iot_wemo_on,none,massive,massive-tr-4619,yeni akıllı soketi çalıştır,yeni akilli soketi calistir
+4622,tr,iot,iot_hue_lightdim,ışıkları iki seviye karart,val,iot_hue_lightdim,none,massive,massive-tr-4622,ışıkları iki seviye karart,isiklari iki seviye karart
+4632,tr,iot,iot_hue_lightoff,yatak odası ışıklarını kapat lütfen,val,iot_hue_lightoff,none,massive,massive-tr-4632,yatak odası ışıklarını kapat lütfen,yatak odasi isiklarini kapat lutfen
+4645,tr,takeaway,takeaway_query,taco bell ne zaman gelecek,val,takeaway_query,none,massive,massive-tr-4645,taco bell ne zaman gelecek,taco bell ne zaman gelecek
+4745,tr,general,general_joke,inek şakası istiyorum,val,general_joke,none,massive,massive-tr-4745,inek şakası istiyorum,inek sakasi istiyorum
+4775,tr,general,general_joke,bana güzel bir fıkra anlatır mısın,val,general_joke,none,massive,massive-tr-4775,bana güzel bir fıkra anlatır mısın,bana guzel bir fikra anlatir misin
+4796,tr,iot,iot_hue_lightoff,yatak odasındaki ışıkları kapat,val,iot_hue_lightoff,none,massive,massive-tr-4796,yatak odasındaki ışıkları kapat,yatak odasindaki isiklari kapat
+4827,tr,iot,iot_hue_lightchange,ışıklar yeşile değiştirilebilir mi,val,iot_hue_lightchange,none,massive,massive-tr-4827,ışıklar yeşile değiştirilebilir mi,isiklar yesile degistirilebilir mi
+4867,tr,takeaway,takeaway_order,pf chang's i ara ve egg foo young iste,val,takeaway_order,none,massive,massive-tr-4867,pf chang s i ara ve egg foo young iste,pf chang s i ara ve egg foo young iste
+4908,tr,general,general_joke,bazı havalı fıkralar aç,val,general_joke,none,massive,massive-tr-4908,bazı havalı fıkralar aç,bazi havali fikralar ac
+4911,tr,general,general_joke,bana fıkra anlat,val,general_joke,none,massive,massive-tr-4911,bana fıkra anlat,bana fikra anlat
+4939,tr,iot,iot_hue_lightoff,ışıkları söndür,val,iot_hue_lightoff,none,massive,massive-tr-4939,ışıkları söndür,isiklari sondur
+5025,tr,iot,iot_hue_lightchange,bize kırmızı göster,val,iot_hue_lightchange,none,massive,massive-tr-5025,bize kırmızı göster,bize kirmizi goster
+5063,tr,iot,iot_hue_lightchange,rengin opaklığını değiştir,val,iot_hue_lightchange,none,massive,massive-tr-5063,rengin opaklığını değiştir,rengin opakligini degistir
+5064,tr,iot,iot_hue_lightchange,rengi açıktan koyuya döndür,val,iot_hue_lightchange,none,massive,massive-tr-5064,rengi açıktan koyuya döndür,rengi aciktan koyuya dondur
+5069,tr,iot,iot_wemo_on,wemoyu aç,val,iot_wemo_on,none,massive,massive-tr-5069,wemoyu aç,wemoyu ac
+5094,tr,iot,iot_hue_lighton,burası karanlık,val,iot_hue_lighton,none,massive,massive-tr-5094,burası karanlık,burasi karanlik
+5150,tr,iot,iot_coffee,kahve makinesini çalışacak şekilde ayarlar mısın,val,iot_coffee,none,massive,massive-tr-5150,kahve makinesini çalışacak şekilde ayarlar mısın,kahve makinesini calisacak sekilde ayarlar misin
+5154,tr,iot,iot_hue_lightoff,burası çok aydınlık bir ışığı kapatabilir misin,val,iot_hue_lightoff,none,massive,massive-tr-5154,burası çok aydınlık bir ışığı kapatabilir misin,burasi cok aydinlik bir isigi kapatabilir misin
+5183,tr,general,general_joke,bir fıkra anlat,val,general_joke,none,massive,massive-tr-5183,bir fıkra anlat,bir fikra anlat
+5202,tr,iot,iot_hue_lightoff,salondaki ışıkları kapat,val,iot_hue_lightoff,none,massive,massive-tr-5202,salondaki ışıkları kapat,salondaki isiklari kapat
+5242,tr,iot,iot_hue_lightoff,banyodaki ışıkları kapat lütfen,val,iot_hue_lightoff,none,massive,massive-tr-5242,banyodaki ışıkları kapat lütfen,banyodaki isiklari kapat lutfen
+5404,tr,iot,iot_cleaning,mutfağı temizlemek için robot süpürgeyi getir,val,iot_cleaning,none,massive,massive-tr-5404,mutfağı temizlemek için robot süpürgeyi getir,mutfagi temizlemek icin robot supurgeyi getir
+5471,tr,iot,iot_hue_lightup,olly ışıkların parlaklığını arttır,val,iot_hue_lightup,none,massive,massive-tr-5471,olly ışıkların parlaklığını arttır,olly isiklarin parlakligini arttir
+5478,tr,iot,iot_hue_lightchange,ışık rengini aktifleştir,val,iot_hue_lightchange,none,massive,massive-tr-5478,ışık rengini aktifleştir,isik rengini aktiflestir
+5479,tr,iot,iot_hue_lightchange,farklı bir ışık rengini etkinleştir,val,iot_hue_lightchange,none,massive,massive-tr-5479,farklı bir ışık rengini etkinleştir,farkli bir isik rengini etkinlestir
+5518,tr,iot,iot_hue_lightoff,oda ışığını kapat,val,iot_hue_lightoff,none,massive,massive-tr-5518,oda ışığını kapat,oda isigini kapat
+5596,tr,takeaway,takeaway_order,en yakın altın kebap,val,takeaway_order,none,massive,massive-tr-5596,en yakın altın kebap,en yakin altin kebap
+5651,tr,iot,iot_wemo_on,wemo prizini aç,val,iot_wemo_on,none,massive,massive-tr-5651,wemo prizini aç,wemo prizini ac
+5653,tr,iot,iot_wemo_on,akıllı soketimi aç,val,iot_wemo_on,none,massive,massive-tr-5653,akıllı soketimi aç,akilli soketimi ac
+5696,tr,iot,iot_cleaning,ev temizliği başlat,val,iot_cleaning,none,massive,massive-tr-5696,ev temizliği başlat,ev temizligi baslat
+5728,tr,iot,iot_hue_lightup,odadaki her ışığın şiddetini arttır,val,iot_hue_lightup,none,massive,massive-tr-5728,odadaki her ışığın şiddetini arttır,odadaki her isigin siddetini arttir
+5770,tr,takeaway,takeaway_query,hosta restoran paket servis yapıyor mu,val,takeaway_query,none,massive,massive-tr-5770,hosta restoran paket servis yapıyor mu,hosta restoran paket servis yapiyor mu
+5854,tr,iot,iot_cleaning,robot süpürgeyi etkinleştir,val,iot_cleaning,none,massive,massive-tr-5854,robot süpürgeyi etkinleştir,robot supurgeyi etkinlestir
+5968,tr,takeaway,takeaway_order,yemek sipariş istiyorum,val,takeaway_order,none,massive,massive-tr-5968,yemek sipariş istiyorum,yemek siparis istiyorum
+5989,tr,iot,iot_coffee,şimdi kahve istiyorum,val,iot_coffee,none,massive,massive-tr-5989,şimdi kahve istiyorum,simdi kahve istiyorum
+5990,tr,iot,iot_coffee,sabah kahvemi hazırla,val,iot_coffee,none,massive,massive-tr-5990,sabah kahvemi hazırla,sabah kahvemi hazirla
+6001,tr,iot,iot_coffee,kahve zamanı,val,iot_coffee,none,massive,massive-tr-6001,kahve zamanı,kahve zamani
+6008,tr,takeaway,takeaway_query,tadım pizza daki siparişim hazır mı,val,takeaway_query,none,massive,massive-tr-6008,tadım pizza daki siparişim hazır mı,tadim pizza daki siparisim hazir mi
+6009,tr,takeaway,takeaway_query,çin yemeği mi ne zaman alabilirim,val,takeaway_query,none,massive,massive-tr-6009,çin yemeği mi ne zaman alabilirim,cin yemegi mi ne zaman alabilirim
+6052,tr,iot,iot_hue_lightup,alexa ışık parlaklık arttır aşağıda görmek zor,val,iot_hue_lightup,none,massive,massive-tr-6052,alexa ışık parlaklık arttır aşağıda görmek zor,alexa isik parlaklik arttir asagida gormek zor
+6071,tr,takeaway,takeaway_query,siparişim şimdi almaya hazır mı,val,takeaway_query,none,massive,massive-tr-6071,siparişim şimdi almaya hazır mı,siparisim simdi almaya hazir mi
+6111,tr,takeaway,takeaway_order,hey olly çin yemeği dükkanından iki tavuk kanadı ve patates kızartması sipariş et,val,takeaway_order,none,massive,massive-tr-6111,hey olly çin yemeği dükkanından iki tavuk kanadı ve patates kızartması sipariş et,hey olly cin yemegi dukkanindan iki tavuk kanadi ve patates kizartmasi siparis et
+6115,tr,takeaway,takeaway_order,hey olly ekstra peynirli pizza iste,val,takeaway_order,none,massive,massive-tr-6115,hey olly ekstra peynirli pizza iste,hey olly ekstra peynirli pizza iste
+6136,tr,general,general_joke,benim için komik ol,val,general_joke,none,massive,massive-tr-6136,benim için komik ol,benim icin komik ol
+6158,tr,iot,iot_cleaning,elektrik süpürgesini aç,val,iot_cleaning,none,massive,massive-tr-6158,elektrik süpürgesini aç,elektrik supurgesini ac
+6176,tr,takeaway,takeaway_query,buradan teslimat alabiliyor muyum,val,takeaway_query,none,massive,massive-tr-6176,buradan teslimat alabiliyor muyum,buradan teslimat alabiliyor muyum
+6490,tr,general,general_joke,kinayeli espriler,val,general_joke,none,massive,massive-tr-6490,kinayeli espriler,kinayeli espriler
+6607,tr,general,general_joke,espriler,val,general_joke,none,massive,massive-tr-6607,espriler,espriler
+6648,tr,general,general_joke,günün şakası,val,general_joke,none,massive,massive-tr-6648,günün şakası,gunun sakasi
+68,en,play,play_music,play me barcelona by queen,val,out_of_scope,seen,massive,massive-en-68,play me barcelona by queen,play me barcelona by queen
+147,en,play,play_music,i like to listen to jazz,val,out_of_scope,seen,massive,massive-en-147,i like to listen to jazz,i like to listen to jazz
+148,en,play,play_music,olly i like to listen to jazz,val,out_of_scope,seen,massive,massive-en-148,olly i like to listen to jazz,olly i like to listen to jazz
+707,en,play,play_music,i want to hear chopin now,val,out_of_scope,seen,massive,massive-en-707,i want to hear chopin now,i want to hear chopin now
+1192,en,play,play_music,i need to hear notorious thugs by bone thugs now,val,out_of_scope,seen,massive,massive-en-1192,i need to hear notorious thugs by bone thugs now,i need to hear notorious thugs by bone thugs now
+1271,en,news,news_query,what's happening in the world today,val,out_of_scope,seen,massive,massive-en-1271,what s happening in the world today,what s happening in the world today
+1698,en,music,music_dislikeness,i don't like that song turn it off,val,out_of_scope,seen,massive,massive-en-1698,i don t like that song turn it off,i don t like that song turn it off
+1732,en,alarm,alarm_query,checkout today set alarm of ten am,val,out_of_scope,seen,massive,massive-en-1732,checkout today set alarm of ten am,checkout today set alarm of ten am
+1839,en,play,play_music,go to youtube and play me the best wedding songs collection,val,out_of_scope,seen,massive,massive-en-1839,go to youtube and play me the best wedding songs collection,go to youtube and play me the best wedding songs collection
+1901,en,news,news_query,update me with the election results,val,out_of_scope,seen,massive,massive-en-1901,update me with the election results,update me with the election results
+1902,en,news,news_query,what does the analysts say about the new immigration policies,val,out_of_scope,seen,massive,massive-en-1902,what does the analysts say about the new immigration policies,what does the analysts say about the new immigration policies
+1914,en,alarm,alarm_set,alert me at five hours,val,out_of_scope,seen,massive,massive-en-1914,alert me at five hours,alert me at five hours
+2006,en,play,play_music,please play rap,val,out_of_scope,seen,massive,massive-en-2006,please play rap,please play rap
+2073,en,play,play_music,play me a recent cover of cherry bomb,val,out_of_scope,seen,massive,massive-en-2073,play me a recent cover of cherry bomb,play me a recent cover of cherry bomb
+2303,en,music,music_likeness,i am forever hip hop,val,out_of_scope,seen,massive,massive-en-2303,i am forever hip hop,i am forever hip hop
+2353,en,music,music_query,what is the name of the music playing now,val,out_of_scope,seen,massive,massive-en-2353,what is the name of the music playing now,what is the name of the music playing now
+2364,en,music,music_query,what song is this,val,out_of_scope,seen,massive,massive-en-2364,what song is this,what song is this
+2420,en,news,news_query,what's new in news express,val,out_of_scope,seen,massive,massive-en-2420,what s new in news express,what s new in news express
+2431,en,alarm,alarm_query,what alarms are upcoming,val,out_of_scope,seen,massive,massive-en-2431,what alarms are upcoming,what alarms are upcoming
+2467,en,news,news_query,is there a way to get the latest breaking news on trump,val,out_of_scope,seen,massive,massive-en-2467,is there a way to get the latest breaking news on trump,is there a way to get the latest breaking news on trump
+2562,en,play,play_music,i want some music how about playing my workout playlist,val,out_of_scope,seen,massive,massive-en-2562,i want some music how about playing my workout playlist,i want some music how about playing my workout playlist
+2598,en,news,news_query,what is the latest international news,val,out_of_scope,seen,massive,massive-en-2598,what is the latest international news,what is the latest international news
+2623,en,audio,audio_volume_mute,no speaking please,val,out_of_scope,seen,massive,massive-en-2623,no speaking please,no speaking please
+2641,en,news,news_query,what is new about blank,val,out_of_scope,seen,massive,massive-en-2641,what is new about blank,what is new about blank
+2797,en,audio,audio_volume_mute,mute sound from speakers,val,out_of_scope,seen,massive,massive-en-2797,mute sound from speakers,mute sound from speakers
+2886,en,news,news_query,please pull up the article on dog sitting in the morning news,val,out_of_scope,seen,massive,massive-en-2886,please pull up the article on dog sitting in the morning news,please pull up the article on dog sitting in the morning news
+2919,en,news,news_query,are there any new videos on the youtube for new york times,val,out_of_scope,seen,massive,massive-en-2919,are there any new videos on the youtube for new york times,are there any new videos on the youtube for new york times
+3404,en,music,music_query,how to repeat the song,val,out_of_scope,seen,massive,massive-en-3404,how to repeat the song,how to repeat the song
+3676,en,play,play_music,can i hear some britney spears,val,out_of_scope,seen,massive,massive-en-3676,can i hear some britney spears,can i hear some britney spears
+3713,en,play,play_music,play my most favorite country song,val,out_of_scope,seen,massive,massive-en-3713,play my most favorite country song,play my most favorite country song
+3904,en,alarm,alarm_remove,please delete the wednesday evening alarm,val,out_of_scope,seen,massive,massive-en-3904,please delete the wednesday evening alarm,please delete the wednesday evening alarm
+3940,en,music,music_likeness,save this songs genre for me,val,out_of_scope,seen,massive,massive-en-3940,save this songs genre for me,save this songs genre for me
+4233,en,play,play_music,play my favorite song of last year,val,out_of_scope,seen,massive,massive-en-4233,play my favorite song of last year,play my favorite song of last year
+4694,en,alarm,alarm_set,please set an alarm for ten p. m.,val,out_of_scope,seen,massive,massive-en-4694,please set an alarm for ten p m,please set an alarm for ten p m
+4840,en,play,play_music,play uptown girl by billy joel,val,out_of_scope,seen,massive,massive-en-4840,play uptown girl by billy joel,play uptown girl by billy joel
+4850,en,alarm,alarm_set,set an alarm for five minutes from now,val,out_of_scope,seen,massive,massive-en-4850,set an alarm for five minutes from now,set an alarm for five minutes from now
+4892,en,play,play_music,tune in some music,val,out_of_scope,seen,massive,massive-en-4892,tune in some music,tune in some music
+4900,en,music,music_query,who sung this,val,out_of_scope,seen,massive,massive-en-4900,who sung this,who sung this
+4979,en,audio,audio_volume_down,please speak quieter to me,val,out_of_scope,seen,massive,massive-en-4979,please speak quieter to me,please speak quieter to me
+5099,en,alarm,alarm_remove,olly cancel alarms,val,out_of_scope,seen,massive,massive-en-5099,olly cancel alarms,olly cancel alarms
+5232,en,news,news_query,how many runs did cheteshwar pujara scored yesterday,val,out_of_scope,seen,massive,massive-en-5232,how many runs did cheteshwar pujara scored yesterday,how many runs did cheteshwar pujara scored yesterday
+5336,en,alarm,alarm_query,provide me the alarm times you have set,val,out_of_scope,seen,massive,massive-en-5336,provide me the alarm times you have set,provide me the alarm times you have set
+5352,en,play,play_music,play from my play list,val,out_of_scope,seen,massive,massive-en-5352,play from my play list,play from my play list
+5393,en,audio,audio_volume_up,turn the sound up,val,out_of_scope,seen,massive,massive-en-5393,turn the sound up,turn the sound up
+5536,en,music,music_settings,please repeat the current song is being played,val,out_of_scope,seen,massive,massive-en-5536,please repeat the current song is being played,please repeat the current song is being played
+5565,en,news,news_query,did ben and jen get back together,val,out_of_scope,seen,massive,massive-en-5565,did ben and jen get back together,did ben and jen get back together
+5755,en,audio,audio_volume_up,audio on,val,out_of_scope,seen,massive,massive-en-5755,audio on,audio on
+5943,en,news,news_query,international trade and business market,val,out_of_scope,seen,massive,massive-en-5943,international trade and business market,international trade and business market
+6044,en,play,play_music,next play selected song,val,out_of_scope,seen,massive,massive-en-6044,next play selected song,next play selected song
+6723,en,calendar,calendar_query,olly what's my agenda for the remainder of the week,val,out_of_scope,seen,massive,massive-en-6723,olly what s my agenda for the remainder of the week,olly what s my agenda for the remainder of the week
+6771,en,calendar,calendar_set,book a meeting with chelsea,val,out_of_scope,seen,massive,massive-en-6771,book a meeting with chelsea,book a meeting with chelsea
+6823,en,calendar,calendar_set,olly i want to go to the outdoor movie screening this weekend remind me,val,out_of_scope,seen,massive,massive-en-6823,olly i want to go to the outdoor movie screening this weekend remind me,olly i want to go to the outdoor movie screening this weekend remind me
+6881,en,calendar,calendar_query,when is the next appointment on my calendar,val,out_of_scope,seen,massive,massive-en-6881,when is the next appointment on my calendar,when is the next appointment on my calendar
+7064,en,calendar,calendar_remove,please delete all of my calendar events for the rest of the day,val,out_of_scope,seen,massive,massive-en-7064,please delete all of my calendar events for the rest of the day,please delete all of my calendar events for the rest of the day
+7131,en,calendar,calendar_remove,delete the wedding on the tenth from my calendar,val,out_of_scope,seen,massive,massive-en-7131,delete the wedding on the tenth from my calendar,delete the wedding on the tenth from my calendar
+7239,en,calendar,calendar_set,remind to at eight p. m. to take my medicine,val,out_of_scope,seen,massive,massive-en-7239,remind to at eight p m to take my medicine,remind to at eight p m to take my medicine
+7279,en,calendar,calendar_set,remind me to pick up the laundry next monday,val,out_of_scope,seen,massive,massive-en-7279,remind me to pick up the laundry next monday,remind me to pick up the laundry next monday
+7341,en,calendar,calendar_remove,do remove next event from the calendar,val,out_of_scope,seen,massive,massive-en-7341,do remove next event from the calendar,do remove next event from the calendar
+7357,en,calendar,calendar_query,what are the list of events in my calendar in march,val,out_of_scope,seen,massive,massive-en-7357,what are the list of events in my calendar in march,what are the list of events in my calendar in march
+7381,en,calendar,calendar_query,please check third event of twenty second of march twenty seventeen,val,out_of_scope,seen,massive,massive-en-7381,please check third event of twenty second of march twenty seventeen,please check third event of twenty second of march twenty seventeen
+7486,en,calendar,calendar_query,what are my current alerts,val,out_of_scope,seen,massive,massive-en-7486,what are my current alerts,what are my current alerts
+7665,en,calendar,calendar_set,i want to add a lunch date with mike jim and bob,val,out_of_scope,seen,massive,massive-en-7665,i want to add a lunch date with mike jim and bob,i want to add a lunch date with mike jim and bob
+7688,en,calendar,calendar_query,do i have any reminders pending,val,out_of_scope,seen,massive,massive-en-7688,do i have any reminders pending,do i have any reminders pending
+7723,en,calendar,calendar_query,tell me about the meeting i have this week,val,out_of_scope,seen,massive,massive-en-7723,tell me about the meeting i have this week,tell me about the meeting i have this week
+7731,en,calendar,calendar_set,set a event for the evening,val,out_of_scope,seen,massive,massive-en-7731,set a event for the evening,set a event for the evening
+7747,en,calendar,calendar_remove,remove all data from my calendar,val,out_of_scope,seen,massive,massive-en-7747,remove all data from my calendar,remove all data from my calendar
+7780,en,calendar,calendar_set,please remind me about swatishs birthday,val,out_of_scope,seen,massive,massive-en-7780,please remind me about swatishs birthday,please remind me about swatishs birthday
+7801,en,calendar,calendar_set,add a note to attend,val,out_of_scope,seen,massive,massive-en-7801,add a note to attend,add a note to attend
+7830,en,calendar,calendar_remove,clear my schedule,val,out_of_scope,seen,massive,massive-en-7830,clear my schedule,clear my schedule
+7867,en,calendar,calendar_query,what does my morning look like tomorrow,val,out_of_scope,seen,massive,massive-en-7867,what does my morning look like tomorrow,what does my morning look like tomorrow
+8046,en,calendar,calendar_query,how many meetings do i have next week,val,out_of_scope,seen,massive,massive-en-8046,how many meetings do i have next week,how many meetings do i have next week
+8059,en,calendar,calendar_query,is this week trash pickup week,val,out_of_scope,seen,massive,massive-en-8059,is this week trash pickup week,is this week trash pickup week
+8078,en,calendar,calendar_set,send me a reminder to pick up my dog from the groomer at one p. m.,val,out_of_scope,seen,massive,massive-en-8078,send me a reminder to pick up my dog from the groomer at one p m,send me a reminder to pick up my dog from the groomer at one p m
+8089,en,calendar,calendar_set,when is my meeting,val,out_of_scope,seen,massive,massive-en-8089,when is my meeting,when is my meeting
+8160,en,calendar,calendar_set,i need to be reminded that there is a meeting for paul's retirement set reminder for tuesday at three p. m.,val,out_of_scope,seen,massive,massive-en-8160,i need to be reminded that there is a meeting for paul s retirement set reminder for tuesday at three p m,i need to be reminded that there is a meeting for paul s retirement set reminder for tuesday at three p m
+8272,en,calendar,calendar_set,add my upcoming meeting to my calendar,val,out_of_scope,seen,massive,massive-en-8272,add my upcoming meeting to my calendar,add my upcoming meeting to my calendar
+8385,en,calendar,calendar_query,is this week a payday week,val,out_of_scope,seen,massive,massive-en-8385,is this week a payday week,is this week a payday week
+8434,en,calendar,calendar_remove,remove my event at one p. m. in my calendar,val,out_of_scope,seen,massive,massive-en-8434,remove my event at one p m in my calendar,remove my event at one p m in my calendar
+8479,en,calendar,calendar_set,set a reminder for my meeting at five p. m.,val,out_of_scope,seen,massive,massive-en-8479,set a reminder for my meeting at five p m,set a reminder for my meeting at five p m
+8543,en,calendar,calendar_query,what events do i have coming up,val,out_of_scope,seen,massive,massive-en-8543,what events do i have coming up,what events do i have coming up
+8619,en,calendar,calendar_set,set and event for the fifteenth of every month to remind me to pay my internet bill,val,out_of_scope,seen,massive,massive-en-8619,set and event for the fifteenth of every month to remind me to pay my internet bill,set and event for the fifteenth of every month to remind me to pay my internet bill
+8723,en,calendar,calendar_query,does my calendar say i'm free on april one two thousand and seventeen,val,out_of_scope,seen,massive,massive-en-8723,does my calendar say i m free on april one two thousand and seventeen,does my calendar say i m free on april one two thousand and seventeen
+8778,en,calendar,calendar_set,set calendar info for albert's marriage,val,out_of_scope,seen,massive,massive-en-8778,set calendar info for albert s marriage,set calendar info for albert s marriage
+8802,en,calendar,calendar_set,please remind me of,val,out_of_scope,seen,massive,massive-en-8802,please remind me of,please remind me of
+8953,en,calendar,calendar_set,let me know of the meeting on tuesday,val,out_of_scope,seen,massive,massive-en-8953,let me know of the meeting on tuesday,let me know of the meeting on tuesday
+9049,en,alarm,alarm_set,set an alarm for four p. m. tuesday,val,out_of_scope,seen,massive,massive-en-9049,set an alarm for four p m tuesday,set an alarm for four p m tuesday
+9065,en,calendar,calendar_set,put a repeating event on the calendar,val,out_of_scope,seen,massive,massive-en-9065,put a repeating event on the calendar,put a repeating event on the calendar
+9067,en,calendar,calendar_query,am i busy this weekend,val,out_of_scope,seen,massive,massive-en-9067,am i busy this weekend,am i busy this weekend
+9171,en,calendar,calendar_set,olly make a calendar entry for next saturday at ten am please,val,out_of_scope,seen,massive,massive-en-9171,olly make a calendar entry for next saturday at ten am please,olly make a calendar entry for next saturday at ten am please
+9215,en,play,play_radio,open iheartradio rov the rock,val,out_of_scope,seen,massive,massive-en-9215,open iheartradio rov the rock,open iheartradio rov the rock
+9299,en,play,play_radio,can you start f. m. eight hundred and ninety radio channel,val,out_of_scope,seen,massive,massive-en-9299,can you start f m eight hundred and ninety radio channel,can you start f m eight hundred and ninety radio channel
+9355,en,play,play_radio,radio on,val,out_of_scope,seen,massive,massive-en-9355,radio on,radio on
+9391,en,play,play_radio,please open my f. m. radio and play nine hundred and eighty seven,val,out_of_scope,seen,massive,massive-en-9391,please open my f m radio and play nine hundred and eighty seven,please open my f m radio and play nine hundred and eighty seven
+9454,en,play,play_radio,get me some radio music from kamp f. m.,val,out_of_scope,seen,massive,massive-en-9454,get me some radio music from kamp f m,get me some radio music from kamp f m
+9500,en,play,play_radio,find joel osteen's broadcast on sirius,val,out_of_scope,seen,massive,massive-en-9500,find joel osteen s broadcast on sirius,find joel osteen s broadcast on sirius
+9660,en,play,play_radio,play this program,val,out_of_scope,seen,massive,massive-en-9660,play this program,play this program
+9725,en,play,play_audiobook,pause the audiobook,val,out_of_scope,seen,massive,massive-en-9725,pause the audiobook,pause the audiobook
+9787,en,play,play_audiobook,start reading book,val,out_of_scope,seen,massive,massive-en-9787,start reading book,start reading book
+9798,en,play,play_audiobook,resume the last kingdom for me,val,out_of_scope,seen,massive,massive-en-9798,resume the last kingdom for me,resume the last kingdom for me
+9874,en,play,play_audiobook,start reading that alan partridge book,val,out_of_scope,seen,massive,massive-en-9874,start reading that alan partridge book,start reading that alan partridge book
+9892,en,play,play_audiobook,olly resume the two towers,val,out_of_scope,seen,massive,massive-en-9892,olly resume the two towers,olly resume the two towers
+10291,en,play,play_game,start play spider,val,out_of_scope,seen,massive,massive-en-10291,start play spider,start play spider
+10293,en,play,play_game,want to play a game with me,val,out_of_scope,seen,massive,massive-en-10293,want to play a game with me,want to play a game with me
+10301,en,play,play_game,want to play a game of trivia,val,out_of_scope,seen,massive,massive-en-10301,want to play a game of trivia,want to play a game of trivia
+10924,en,calendar,calendar_remove,remove meeting for wednesday morning,val,out_of_scope,seen,massive,massive-en-10924,remove meeting for wednesday morning,remove meeting for wednesday morning
+11281,en,play,play_podcasts,can you forward an episode in the podcast,val,out_of_scope,seen,massive,massive-en-11281,can you forward an episode in the podcast,can you forward an episode in the podcast
+11326,en,play,play_podcasts,play the seventh episode of the morning after,val,out_of_scope,seen,massive,massive-en-11326,play the seventh episode of the morning after,play the seventh episode of the morning after
+11333,en,play,play_music,arrange and play all songs of eminem,val,out_of_scope,seen,massive,massive-en-11333,arrange and play all songs of eminem,arrange and play all songs of eminem
+11419,en,play,play_podcasts,listen to duncan trussel's latest podcast,val,out_of_scope,seen,massive,massive-en-11419,listen to duncan trussel s latest podcast,listen to duncan trussel s latest podcast
+11552,en,play,play_podcasts,much more clearer and subject oriented,val,out_of_scope,seen,massive,massive-en-11552,much more clearer and subject oriented,much more clearer and subject oriented
+11553,en,play,play_podcasts,short and simple,val,out_of_scope,seen,massive,massive-en-11553,short and simple,short and simple
+15157,en,social,social_query,what was the last thing my mom said,val,out_of_scope,seen,massive,massive-en-15157,what was the last thing my mom said,what was the last thing my mom said
+15180,en,social,social_query,how many likes does my last instagram photo have,val,out_of_scope,seen,massive,massive-en-15180,how many likes does my last instagram photo have,how many likes does my last instagram photo have
+15221,en,social,social_post,broadcast a video in youtube,val,out_of_scope,seen,massive,massive-en-15221,broadcast a video in youtube,broadcast a video in youtube
+15247,en,social,social_post,please submit status to facebook,val,out_of_scope,seen,massive,massive-en-15247,please submit status to facebook,please submit status to facebook
+15460,en,social,social_post,send complaint through twitter consumer service,val,out_of_scope,seen,massive,massive-en-15460,send complaint through twitter consumer service,send complaint through twitter consumer service
+15514,en,social,social_post,tweet complaint to samsung,val,out_of_scope,seen,massive,massive-en-15514,tweet complaint to samsung,tweet complaint to samsung
+15541,en,social,social_post,send a tweet to dominoes about bad delivery,val,out_of_scope,seen,massive,massive-en-15541,send a tweet to dominoes about bad delivery,send a tweet to dominoes about bad delivery
+15581,en,social,social_post,olly send a tweet to company,val,out_of_scope,seen,massive,massive-en-15581,olly send a tweet to company,olly send a tweet to company
+15630,en,social,social_query,what are the latest photos on my instagram account,val,out_of_scope,seen,massive,massive-en-15630,what are the latest photos on my instagram account,what are the latest photos on my instagram account
+15695,en,social,social_post,tweet consumer service that i am very disappointed with my recent interaction,val,out_of_scope,seen,massive,massive-en-15695,tweet consumer service that i am very disappointed with my recent interaction,tweet consumer service that i am very disappointed with my recent interaction
+68,tr,play,play_music,bana metin arolat'tan dert değil çal,val,out_of_scope,seen,massive,massive-tr-68,bana metin arolat tan dert değil çal,bana metin arolat tan dert degil cal
+147,tr,play,play_music,caz dinlemek istiyorum,val,out_of_scope,seen,massive,massive-tr-147,caz dinlemek istiyorum,caz dinlemek istiyorum
+148,tr,play,play_music,olly caz dinlemek istiyorum,val,out_of_scope,seen,massive,massive-tr-148,olly caz dinlemek istiyorum,olly caz dinlemek istiyorum
+707,tr,play,play_music,şimdi fazıl say dinlemek istiyorum,val,out_of_scope,seen,massive,massive-tr-707,şimdi fazıl say dinlemek istiyorum,simdi fazil say dinlemek istiyorum
+1192,tr,play,play_music,ayna 'dan gittiğin yağmurla gel dinlemek istiyorum şimdi,val,out_of_scope,seen,massive,massive-tr-1192,ayna dan gittiğin yağmurla gel dinlemek istiyorum şimdi,ayna dan gittigin yagmurla gel dinlemek istiyorum simdi
+1271,tr,news,news_query,bugün dünyada neler oluyor,val,out_of_scope,seen,massive,massive-tr-1271,bugün dünyada neler oluyor,bugun dunyada neler oluyor
+1698,tr,music,music_dislikeness,o şarkıyı sevmiyorum kapat,val,out_of_scope,seen,massive,massive-tr-1698,o şarkıyı sevmiyorum kapat,o sarkiyi sevmiyorum kapat
+1732,tr,alarm,alarm_query,bugün sabah ona alarm kurulu mu kontrol et,val,out_of_scope,seen,massive,massive-tr-1732,bugün sabah ona alarm kurulu mu kontrol et,bugun sabah ona alarm kurulu mu kontrol et
+1839,tr,play,play_music,youtube a git ve en güzel dans şarkıları kolleksiyonunu çal,val,out_of_scope,seen,massive,massive-tr-1839,youtube a git ve en güzel dans şarkıları kolleksiyonunu çal,youtube a git ve en guzel dans sarkilari kolleksiyonunu cal
+1901,tr,news,news_query,seçim sonuçları ile ilgili beni güncel tut,val,out_of_scope,seen,massive,massive-tr-1901,seçim sonuçları ile ilgili beni güncel tut,secim sonuclari ile ilgili beni guncel tut
+1902,tr,news,news_query,analistler yeni göçmen politikaları hakkında ne dyor,val,out_of_scope,seen,massive,massive-tr-1902,analistler yeni göçmen politikaları hakkında ne dyor,analistler yeni gocmen politikalari hakkinda ne dyor
+1914,tr,alarm,alarm_set,beş saat içinde beni uyar,val,out_of_scope,seen,massive,massive-tr-1914,beş saat içinde beni uyar,bes saat icinde beni uyar
+2006,tr,play,play_music,lütfen rap çal,val,out_of_scope,seen,massive,massive-tr-2006,lütfen rap çal,lutfen rap cal
+2073,tr,play,play_music,bana son aranjmanların hepsini çal,val,out_of_scope,seen,massive,massive-tr-2073,bana son aranjmanların hepsini çal,bana son aranjmanlarin hepsini cal
+2303,tr,music,music_likeness,mahvettim hip hop,val,out_of_scope,seen,massive,massive-tr-2303,mahvettim hip hop,mahvettim hip hop
+2353,tr,music,music_query,şu an çalan müziğin adı ne,val,out_of_scope,seen,massive,massive-tr-2353,şu an çalan müziğin adı ne,su an calan muzigin adi ne
+2364,tr,music,music_query,bu şarkı hangisi,val,out_of_scope,seen,massive,massive-tr-2364,bu şarkı hangisi,bu sarki hangisi
+2420,tr,news,news_query,news express de yeni ne var,val,out_of_scope,seen,massive,massive-tr-2420,news express de yeni ne var,news express de yeni ne var
+2431,tr,alarm,alarm_query,yaklaşan alarmlar hangileri,val,out_of_scope,seen,massive,massive-tr-2431,yaklaşan alarmlar hangileri,yaklasan alarmlar hangileri
+2467,tr,news,news_query,erdoğan hakkındaki son dakika haberlerini almanın bir yolu var mı,val,out_of_scope,seen,massive,massive-tr-2467,erdoğan hakkındaki son dakika haberlerini almanın bir yolu var mı,erdogan hakkindaki son dakika haberlerini almanin bir yolu var mi
+2562,tr,play,play_music,biraz müzik istiyorum antrenman çalma listemi çalmaya ne dersin,val,out_of_scope,seen,massive,massive-tr-2562,biraz müzik istiyorum antrenman çalma listemi çalmaya ne dersin,biraz muzik istiyorum antrenman calma listemi calmaya ne dersin
+2598,tr,news,news_query,en son uluslararası haberler nelerdir,val,out_of_scope,seen,massive,massive-tr-2598,en son uluslararası haberler nelerdir,en son uluslararasi haberler nelerdir
+2623,tr,audio,audio_volume_mute,konuşma lütfen,val,out_of_scope,seen,massive,massive-tr-2623,konuşma lütfen,konusma lutfen
+2641,tr,news,news_query,blank hakkında yeni ne var,val,out_of_scope,seen,massive,massive-tr-2641,blank hakkında yeni ne var,blank hakkinda yeni ne var
+2797,tr,audio,audio_volume_mute,hoparlörlerden gelen sesi kapat,val,out_of_scope,seen,massive,massive-tr-2797,hoparlörlerden gelen sesi kapat,hoparlorlerden gelen sesi kapat
+2886,tr,news,news_query,lütfen sabah haberlerinde oturan köpekle ilgili makaleyi aç,val,out_of_scope,seen,massive,massive-tr-2886,lütfen sabah haberlerinde oturan köpekle ilgili makaleyi aç,lutfen sabah haberlerinde oturan kopekle ilgili makaleyi ac
+2919,tr,news,news_query,hürriyet için youtube da hiç yeni video var mı,val,out_of_scope,seen,massive,massive-tr-2919,hürriyet için youtube da hiç yeni video var mı,hurriyet icin youtube da hic yeni video var mi
+3404,tr,music,music_query,şarkı nasıl tekrar edilir,val,out_of_scope,seen,massive,massive-tr-3404,şarkı nasıl tekrar edilir,sarki nasil tekrar edilir
+3676,tr,play,play_music,biraz irem derici dinleyebilir miyim,val,out_of_scope,seen,massive,massive-tr-3676,biraz irem derici dinleyebilir miyim,biraz irem derici dinleyebilir miyim
+3713,tr,play,play_music,benim en sevdiğim country şarkılarını çal,val,out_of_scope,seen,massive,massive-tr-3713,benim en sevdiğim country şarkılarını çal,benim en sevdigim country sarkilarini cal
+3904,tr,alarm,alarm_remove,lütfen çarşamba akşamı alarmını sil,val,out_of_scope,seen,massive,massive-tr-3904,lütfen çarşamba akşamı alarmını sil,lutfen carsamba aksami alarmini sil
+3940,tr,music,music_likeness,bu şarkıların türünü benim için kaydet,val,out_of_scope,seen,massive,massive-tr-3940,bu şarkıların türünü benim için kaydet,bu sarkilarin turunu benim icin kaydet
+4233,tr,play,play_music,geçen yıldan benim favori şarkımı çal,val,out_of_scope,seen,massive,massive-tr-4233,geçen yıldan benim favori şarkımı çal,gecen yildan benim favori sarkimi cal
+4694,tr,alarm,alarm_set,lütfen saat akşam ona alarm kur,val,out_of_scope,seen,massive,massive-tr-4694,lütfen saat akşam ona alarm kur,lutfen saat aksam ona alarm kur
+4840,tr,play,play_music,mustafa sandal 'dan araba şarkısını çal,val,out_of_scope,seen,massive,massive-tr-4840,mustafa sandal dan araba şarkısını çal,mustafa sandal dan araba sarkisini cal
+4850,tr,alarm,alarm_set,beş dakika sonrasına alarm kur,val,out_of_scope,seen,massive,massive-tr-4850,beş dakika sonrasına alarm kur,bes dakika sonrasina alarm kur
+4892,tr,play,play_music,biraz müzik çal,val,out_of_scope,seen,massive,massive-tr-4892,biraz müzik çal,biraz muzik cal
+4900,tr,music,music_query,bunu kim söyledi,val,out_of_scope,seen,massive,massive-tr-4900,bunu kim söyledi,bunu kim soyledi
+4979,tr,audio,audio_volume_down,benimle daha sessiz konuş lütfen,val,out_of_scope,seen,massive,massive-tr-4979,benimle daha sessiz konuş lütfen,benimle daha sessiz konus lutfen
+5099,tr,alarm,alarm_remove,olly alarmları iptal et,val,out_of_scope,seen,massive,massive-tr-5099,olly alarmları iptal et,olly alarmlari iptal et
+5232,tr,news,news_query,cheteshwar pujara dün kaç koşu attı,val,out_of_scope,seen,massive,massive-tr-5232,cheteshwar pujara dün kaç koşu attı,cheteshwar pujara dun kac kosu atti
+5336,tr,alarm,alarm_query,bana ayarladığın alarm zamanlarını söyle,val,out_of_scope,seen,massive,massive-tr-5336,bana ayarladığın alarm zamanlarını söyle,bana ayarladigin alarm zamanlarini soyle
+5352,tr,play,play_music,benim çalma listemi çal,val,out_of_scope,seen,massive,massive-tr-5352,benim çalma listemi çal,benim calma listemi cal
+5393,tr,audio,audio_volume_up,sesi aç,val,out_of_scope,seen,massive,massive-tr-5393,sesi aç,sesi ac
+5536,tr,music,music_settings,şu anki çalan şarkıyı tekrar oynat lütfen,val,out_of_scope,seen,massive,massive-tr-5536,şu anki çalan şarkıyı tekrar oynat lütfen,su anki calan sarkiyi tekrar oynat lutfen
+5565,tr,news,news_query,bedri ile jale tekrar barıştı mı,val,out_of_scope,seen,massive,massive-tr-5565,bedri ile jale tekrar barıştı mı,bedri ile jale tekrar baristi mi
+5755,tr,audio,audio_volume_up,ses açık,val,out_of_scope,seen,massive,massive-tr-5755,ses açık,ses acik
+5943,tr,news,news_query,uluslar arası ticaret ve iş piyasası,val,out_of_scope,seen,massive,massive-tr-5943,uluslar arası ticaret ve iş piyasası,uluslar arasi ticaret ve is piyasasi
+6044,tr,play,play_music,bir sonraki seçili şarkı,val,out_of_scope,seen,massive,massive-tr-6044,bir sonraki seçili şarkı,bir sonraki secili sarki
+6723,tr,calendar,calendar_query,olly haftanın geri kalanı için gündemim ne,val,out_of_scope,seen,massive,massive-tr-6723,olly haftanın geri kalanı için gündemim ne,olly haftanin geri kalani icin gundemim ne
+6771,tr,calendar,calendar_set,çiğdem ile bir toplantı ayarla,val,out_of_scope,seen,massive,massive-tr-6771,çiğdem ile bir toplantı ayarla,cigdem ile bir toplanti ayarla
+6823,tr,calendar,calendar_set,olly bu hafta sonu açık hava filmine gitmek istiyorum bana hatırlat,val,out_of_scope,seen,massive,massive-tr-6823,olly bu hafta sonu açık hava filmine gitmek istiyorum bana hatırlat,olly bu hafta sonu acik hava filmine gitmek istiyorum bana hatirlat
+6881,tr,calendar,calendar_query,takvimimdeki bir sonraki randevu ne zaman,val,out_of_scope,seen,massive,massive-tr-6881,takvimimdeki bir sonraki randevu ne zaman,takvimimdeki bir sonraki randevu ne zaman
+7064,tr,calendar,calendar_remove,lütfen günün geri kalanı için tüm takvim etkinliklerimi sil,val,out_of_scope,seen,massive,massive-tr-7064,lütfen günün geri kalanı için tüm takvim etkinliklerimi sil,lutfen gunun geri kalani icin tum takvim etkinliklerimi sil
+7131,tr,calendar,calendar_remove,ayın onunda olacak düğünü takvimimden sil,val,out_of_scope,seen,massive,massive-tr-7131,ayın onunda olacak düğünü takvimimden sil,ayin onunda olacak dugunu takvimimden sil
+7239,tr,calendar,calendar_set,akşam sekizde ilaç almam gerektiğini hatırlat,val,out_of_scope,seen,massive,massive-tr-7239,akşam sekizde ilaç almam gerektiğini hatırlat,aksam sekizde ilac almam gerektigini hatirlat
+7279,tr,calendar,calendar_set,bana gelecek pazartesi kuru temizlemeden kıyafetleri almam gerektiğini hatırlat,val,out_of_scope,seen,massive,massive-tr-7279,bana gelecek pazartesi kuru temizlemeden kıyafetleri almam gerektiğini hatırlat,bana gelecek pazartesi kuru temizlemeden kiyafetleri almam gerektigini hatirlat
+7341,tr,calendar,calendar_remove,bir sonraki etkinliği takvimden kaldır,val,out_of_scope,seen,massive,massive-tr-7341,bir sonraki etkinliği takvimden kaldır,bir sonraki etkinligi takvimden kaldir
+7357,tr,calendar,calendar_query,mart ayında takvimimdeki etkinliklerin listesi nelerdir,val,out_of_scope,seen,massive,massive-tr-7357,mart ayında takvimimdeki etkinliklerin listesi nelerdir,mart ayinda takvimimdeki etkinliklerin listesi nelerdir
+7381,tr,calendar,calendar_query,lütfen iki bin on yedi martının yirmi ikisinde bulunan üçüncü etkinliği kontrol et,val,out_of_scope,seen,massive,massive-tr-7381,lütfen iki bin on yedi martının yirmi ikisinde bulunan üçüncü etkinliği kontrol et,lutfen iki bin on yedi martinin yirmi ikisinde bulunan ucuncu etkinligi kontrol et
+7486,tr,calendar,calendar_query,mevcut uyarılarım neler,val,out_of_scope,seen,massive,massive-tr-7486,mevcut uyarılarım neler,mevcut uyarilarim neler
+7665,tr,calendar,calendar_set,mike jim ve bob ile bir öğle yemeği randevusu eklemek istiyorum,val,out_of_scope,seen,massive,massive-tr-7665,mike jim ve bob ile bir öğle yemeği randevusu eklemek istiyorum,mike jim ve bob ile bir ogle yemegi randevusu eklemek istiyorum
+7688,tr,calendar,calendar_query,bekleyen herhangi bir hatırlatıcım var mı,val,out_of_scope,seen,massive,massive-tr-7688,bekleyen herhangi bir hatırlatıcım var mı,bekleyen herhangi bir hatirlaticim var mi
+7723,tr,calendar,calendar_query,bu hafta olan toplantımı söyle bana,val,out_of_scope,seen,massive,massive-tr-7723,bu hafta olan toplantımı söyle bana,bu hafta olan toplantimi soyle bana
+7731,tr,calendar,calendar_set,akşam için bir etkinlik ayarla,val,out_of_scope,seen,massive,massive-tr-7731,akşam için bir etkinlik ayarla,aksam icin bir etkinlik ayarla
+7747,tr,calendar,calendar_remove,takvimimdeki tüm verileri kaldır,val,out_of_scope,seen,massive,massive-tr-7747,takvimimdeki tüm verileri kaldır,takvimimdeki tum verileri kaldir
+7780,tr,calendar,calendar_set,bana selinin doğum gününü hatırlat,val,out_of_scope,seen,massive,massive-tr-7780,bana selinin doğum gününü hatırlat,bana selinin dogum gununu hatirlat
+7801,tr,calendar,calendar_set,katılım için bir not ekle,val,out_of_scope,seen,massive,massive-tr-7801,katılım için bir not ekle,katilim icin bir not ekle
+7830,tr,calendar,calendar_remove,programımı temizle,val,out_of_scope,seen,massive,massive-tr-7830,programımı temizle,programimi temizle
+7867,tr,calendar,calendar_query,yarın benim sabahım nasıl görünüyor,val,out_of_scope,seen,massive,massive-tr-7867,yarın benim sabahım nasıl görünüyor,yarin benim sabahim nasil gorunuyor
+8046,tr,calendar,calendar_query,gelecek hafta kaç toplantım var,val,out_of_scope,seen,massive,massive-tr-8046,gelecek hafta kaç toplantım var,gelecek hafta kac toplantim var
+8059,tr,calendar,calendar_query,bu hafta çöp toplama haftası mı,val,out_of_scope,seen,massive,massive-tr-8059,bu hafta çöp toplama haftası mı,bu hafta cop toplama haftasi mi
+8078,tr,calendar,calendar_set,öğleden sonra bir de kuaför den köpeğimi almak için bir anımsatıcı gönder,val,out_of_scope,seen,massive,massive-tr-8078,öğleden sonra bir de kuaför den köpeğimi almak için bir anımsatıcı gönder,ogleden sonra bir de kuafor den kopegimi almak icin bir animsatici gonder
+8089,tr,calendar,calendar_set,benim toplantı ne zaman,val,out_of_scope,seen,massive,massive-tr-8089,benim toplantı ne zaman,benim toplanti ne zaman
+8160,tr,calendar,calendar_set,pelinin emekliliği için buluşma olduğu konusunda hatırlatma lazım salı günü öğleden sonra saat üçe hatırlatıcı kur,val,out_of_scope,seen,massive,massive-tr-8160,pelinin emekliliği için buluşma olduğu konusunda hatırlatma lazım salı günü öğleden sonra saat üçe hatırlatıcı kur,pelinin emekliligi icin bulusma oldugu konusunda hatirlatma lazim sali gunu ogleden sonra saat uce hatirlatici kur
+8272,tr,calendar,calendar_set,yaklaşan toplantımı takvimime ekle,val,out_of_scope,seen,massive,massive-tr-8272,yaklaşan toplantımı takvimime ekle,yaklasan toplantimi takvimime ekle
+8385,tr,calendar,calendar_query,bu hafta maaş haftası mı,val,out_of_scope,seen,massive,massive-tr-8385,bu hafta maaş haftası mı,bu hafta maas haftasi mi
+8434,tr,calendar,calendar_remove,takvimimdeki öğlen birdeki etkinliğimi kaldır,val,out_of_scope,seen,massive,massive-tr-8434,takvimimdeki öğlen birdeki etkinliğimi kaldır,takvimimdeki oglen birdeki etkinligimi kaldir
+8479,tr,calendar,calendar_set,akşam beşte ki toplantım için hatırlatma ayarla,val,out_of_scope,seen,massive,massive-tr-8479,akşam beşte ki toplantım için hatırlatma ayarla,aksam beste ki toplantim icin hatirlatma ayarla
+8543,tr,calendar,calendar_query,gelecek etkinliklerim neler,val,out_of_scope,seen,massive,massive-tr-8543,gelecek etkinliklerim neler,gelecek etkinliklerim neler
+8619,tr,calendar,calendar_set,internet faturamı ödememi hatırlatmak için her ayın on beşinde bir etkinlik ayarla,val,out_of_scope,seen,massive,massive-tr-8619,internet faturamı ödememi hatırlatmak için her ayın on beşinde bir etkinlik ayarla,internet faturami odememi hatirlatmak icin her ayin on besinde bir etkinlik ayarla
+8723,tr,calendar,calendar_query,takvim benim bir kasım iki bin yirmi birde boş olduğumu söylüyor mu,val,out_of_scope,seen,massive,massive-tr-8723,takvim benim bir kasım iki bin yirmi birde boş olduğumu söylüyor mu,takvim benim bir kasim iki bin yirmi birde bos oldugumu soyluyor mu
+8778,tr,calendar,calendar_set,hüseyinin nikahı için takvim bilgisi oluştur,val,out_of_scope,seen,massive,massive-tr-8778,hüseyinin nikahı için takvim bilgisi oluştur,huseyinin nikahi icin takvim bilgisi olustur
+8953,tr,calendar,calendar_set,salı günkü toplantı ile ilgili bilgilendir,val,out_of_scope,seen,massive,massive-tr-8953,salı günkü toplantı ile ilgili bilgilendir,sali gunku toplanti ile ilgili bilgilendir
+9049,tr,alarm,alarm_set,salı akşam dörde alarm kur,val,out_of_scope,seen,massive,massive-tr-9049,salı akşam dörde alarm kur,sali aksam dorde alarm kur
+9065,tr,calendar,calendar_set,takvime yinelenen bir etkinlik koy,val,out_of_scope,seen,massive,massive-tr-9065,takvime yinelenen bir etkinlik koy,takvime yinelenen bir etkinlik koy
+9067,tr,calendar,calendar_query,bu hafta sonu meşgul müyüm,val,out_of_scope,seen,massive,massive-tr-9067,bu hafta sonu meşgul müyüm,bu hafta sonu mesgul muyum
+9171,tr,calendar,calendar_set,olly önümüzdeki cumartesi sabah on için takvimde bir kayıt oluştur,val,out_of_scope,seen,massive,massive-tr-9171,olly önümüzdeki cumartesi sabah on için takvimde bir kayıt oluştur,olly onumuzdeki cumartesi sabah on icin takvimde bir kayit olustur
+9215,tr,play,play_radio,iheartradio rov rock aç,val,out_of_scope,seen,massive,massive-tr-9215,iheartradio rov rock aç,iheartradio rov rock ac
+9299,tr,play,play_radio,kral f. m. radyo kanalını başlatabilir misin,val,out_of_scope,seen,massive,massive-tr-9299,kral f m radyo kanalını başlatabilir misin,kral f m radyo kanalini baslatabilir misin
+9355,tr,play,play_radio,radyo açık,val,out_of_scope,seen,massive,massive-tr-9355,radyo açık,radyo acik
+9391,tr,play,play_radio,benim fm radyomu aç ve radyo d çal,val,out_of_scope,seen,massive,massive-tr-9391,benim fm radyomu aç ve radyo d çal,benim fm radyomu ac ve radyo d cal
+9454,tr,play,play_radio,bana trt fm 'den biraz radyo müziği çal,val,out_of_scope,seen,massive,massive-tr-9454,bana trt fm den biraz radyo müziği çal,bana trt fm den biraz radyo muzigi cal
+9500,tr,play,play_radio,sirius 'da sezen aksu'nun bir parçasını bul,val,out_of_scope,seen,massive,massive-tr-9500,sirius da sezen aksu nun bir parçasını bul,sirius da sezen aksu nun bir parcasini bul
+9660,tr,play,play_radio,bu programı aç,val,out_of_scope,seen,massive,massive-tr-9660,bu programı aç,bu programi ac
+9725,tr,play,play_audiobook,sesli kitabı durdur,val,out_of_scope,seen,massive,massive-tr-9725,sesli kitabı durdur,sesli kitabi durdur
+9787,tr,play,play_audiobook,kitap okumaya başla,val,out_of_scope,seen,massive,massive-tr-9787,kitap okumaya başla,kitap okumaya basla
+9798,tr,play,play_audiobook,benim için kuran a devam et,val,out_of_scope,seen,massive,massive-tr-9798,benim için kuran a devam et,benim icin kuran a devam et
+9874,tr,play,play_audiobook,o sabahattin ali kitap ını okumaya başla,val,out_of_scope,seen,massive,massive-tr-9874,o sabahattin ali kitap ını okumaya başla,o sabahattin ali kitap ini okumaya basla
+9892,tr,play,play_audiobook,kürk mantolu madonna'yı kaldığı yerden devam ettir,val,out_of_scope,seen,massive,massive-tr-9892,kürk mantolu madonna yı kaldığı yerden devam ettir,kurk mantolu madonna yi kaldigi yerden devam ettir
+10291,tr,play,play_game,örümcek oyununu başlat,val,out_of_scope,seen,massive,massive-tr-10291,örümcek oyununu başlat,orumcek oyununu baslat
+10293,tr,play,play_game,benle oyun oynamak ister misin,val,out_of_scope,seen,massive,massive-tr-10293,benle oyun oynamak ister misin,benle oyun oynamak ister misin
+10301,tr,play,play_game,trivia oyununu oynamak istiyorum,val,out_of_scope,seen,massive,massive-tr-10301,trivia oyununu oynamak istiyorum,trivia oyununu oynamak istiyorum
+10924,tr,calendar,calendar_remove,çarşamba sabahki toplantıyı kaldır,val,out_of_scope,seen,massive,massive-tr-10924,çarşamba sabahki toplantıyı kaldır,carsamba sabahki toplantiyi kaldir
+11281,tr,play,play_podcasts,podcastteki bir bölümü iletebilir misin,val,out_of_scope,seen,massive,massive-tr-11281,podcastteki bir bölümü iletebilir misin,podcastteki bir bolumu iletebilir misin
+11326,tr,play,play_podcasts,rabarba nın yedinci bölümünü çal,val,out_of_scope,seen,massive,massive-tr-11326,rabarba nın yedinci bölümünü çal,rabarba nin yedinci bolumunu cal
+11333,tr,play,play_music,ceza 'dan tüm şarkıları düzenle ve çal,val,out_of_scope,seen,massive,massive-tr-11333,ceza dan tüm şarkıları düzenle ve çal,ceza dan tum sarkilari duzenle ve cal
+11419,tr,play,play_podcasts,tarkanın en son podcastini dinle,val,out_of_scope,seen,massive,massive-tr-11419,tarkanın en son podcastini dinle,tarkanin en son podcastini dinle
+11552,tr,play,play_podcasts,çok daha net ve kişiye yönelik,val,out_of_scope,seen,massive,massive-tr-11552,çok daha net ve kişiye yönelik,cok daha net ve kisiye yonelik
+11553,tr,play,play_podcasts,yüksek sadakat,val,out_of_scope,seen,massive,massive-tr-11553,yüksek sadakat,yuksek sadakat
+15157,tr,social,social_query,annemin söylediği son şey neydi,val,out_of_scope,seen,massive,massive-tr-15157,annemin söylediği son şey neydi,annemin soyledigi son sey neydi
+15180,tr,social,social_query,son instagram fotoğrafım kaç beğeni aldı,val,out_of_scope,seen,massive,massive-tr-15180,son instagram fotoğrafım kaç beğeni aldı,son instagram fotografim kac begeni aldi
+15221,tr,social,social_post,youtube'da bir video yayınla,val,out_of_scope,seen,massive,massive-tr-15221,youtube da bir video yayınla,youtube da bir video yayinla
+15247,tr,social,social_post,lütfen durumu facebooka gönder,val,out_of_scope,seen,massive,massive-tr-15247,lütfen durumu facebooka gönder,lutfen durumu facebooka gonder
+15460,tr,social,social_post,twitter tüketici servisi aracılığıyla şikayet gönder,val,out_of_scope,seen,massive,massive-tr-15460,twitter tüketici servisi aracılığıyla şikayet gönder,twitter tuketici servisi araciligiyla sikayet gonder
+15514,tr,social,social_post,samsung'a şikayet tweet'i at,val,out_of_scope,seen,massive,massive-tr-15514,samsung a şikayet tweet i at,samsung a sikayet tweet i at
+15541,tr,social,social_post,kötü teslimat hakkında dominosa bir tweet gönder,val,out_of_scope,seen,massive,massive-tr-15541,kötü teslimat hakkında dominosa bir tweet gönder,kotu teslimat hakkinda dominosa bir tweet gonder
+15581,tr,social,social_post,olly şirkete bir tweet gönder,val,out_of_scope,seen,massive,massive-tr-15581,olly şirkete bir tweet gönder,olly sirkete bir tweet gonder
+15630,tr,social,social_query,instagram hesabımdaki en son fotoğraflar neler,val,out_of_scope,seen,massive,massive-tr-15630,instagram hesabımdaki en son fotoğraflar neler,instagram hesabimdaki en son fotograflar neler
+15695,tr,social,social_post,tüketici servisine en sonki iletişimimiz konusunda hayal kırıklığına uğradığımı belirten bir tweet at,val,out_of_scope,seen,massive,massive-tr-15695,tüketici servisine en sonki iletişimimiz konusunda hayal kırıklığına uğradığımı belirten bir tweet at,tuketici servisine en sonki iletisimimiz konusunda hayal kirikligina ugradigimi belirten bir tweet at
+,tr,appliance_support,appliance_malfunction,Bulaşık makinem su boşaltmıyor.,val,appliance_malfunction,none,manual,manual-m001,bulaşık makinem su boşaltmıyor,bulasik makinem su bosaltmiyor
+,tr,appliance_support,appliance_malfunction,Buzdolabım yeterince soğutmuyor.,val,appliance_malfunction,none,manual,manual-m003,buzdolabım yeterince soğutmuyor,buzdolabim yeterince sogutmuyor
+,en,appliance_support,appliance_malfunction,My oven is not working at all.,val,appliance_malfunction,none,manual,manual-m014,my oven is not working at all,my oven is not working at all
+,en,appliance_support,appliance_malfunction,Water is leaking under my fridge.,val,appliance_malfunction,none,manual,manual-m018,water is leaking under my fridge,water is leaking under my fridge
+,tr,appliance_support,installation_request,Ankastre fırının montajı için randevu almak istiyorum.,val,installation_request,none,manual,manual-m023,ankastre fırının montajı için randevu almak istiyorum,ankastre firinin montaji icin randevu almak istiyorum
+,tr,appliance_support,installation_request,Kurulum ekibi bugün gelecekti ama kimse gelmedi.,val,installation_request,none,manual,manual-m026,kurulum ekibi bugün gelecekti ama kimse gelmedi,kurulum ekibi bugun gelecekti ama kimse gelmedi
+,en,appliance_support,installation_request,Can you stack my dryer on top of the washing machine?,val,installation_request,none,manual,manual-m037,can you stack my dryer on top of the washing machine,can you stack my dryer on top of the washing machine
+,en,appliance_support,installation_request,Who will connect the water supply for the dishwasher?,val,installation_request,none,manual,manual-m038,who will connect the water supply for the dishwasher,who will connect the water supply for the dishwasher
+,tr,appliance_support,warranty_inquiry,Buzdolabım hâlâ garanti kapsamında mı?,val,warranty_inquiry,none,manual,manual-m042,buzdolabım hâlâ garanti kapsamında mı,buzdolabim hala garanti kapsaminda mi
+,tr,appliance_support,warranty_inquiry,Çamaşır makinemin motoru kaç yıl garantili?,val,warranty_inquiry,none,manual,manual-m047,çamaşır makinemin motoru kaç yıl garantili,camasir makinemin motoru kac yil garantili
+,en,appliance_support,warranty_inquiry,Is my refrigerator still under warranty?,val,warranty_inquiry,none,manual,manual-m052,is my refrigerator still under warranty,is my refrigerator still under warranty
+,en,appliance_support,warranty_inquiry,How do I check the warranty status with the serial number?,val,warranty_inquiry,none,manual,manual-m054,how do i check the warranty status with the serial number,how do i check the warranty status with the serial number
+,tr,appliance_support,return_refund,İade kargosu ücretli mi?,val,return_refund,none,manual,manual-m065,iade kargosu ücretli mi,iade kargosu ucretli mi
+,tr,appliance_support,return_refund,"Yanlış renk bulaşık makinesi gönderilmiş, değiştirmek istiyorum.",val,return_refund,none,manual,manual-m066,yanlış renk bulaşık makinesi gönderilmiş değiştirmek istiyorum,yanlis renk bulasik makinesi gonderilmis degistirmek istiyorum
+,en,appliance_support,return_refund,I want to return the refrigerator I bought.,val,return_refund,none,manual,manual-m071,i want to return the refrigerator i bought,i want to return the refrigerator i bought
+,en,appliance_support,return_refund,When will I get my refund for the returned oven?,val,return_refund,none,manual,manual-m073,when will i get my refund for the returned oven,when will i get my refund for the returned oven
+,tr,appliance_support,billing_payment,Ödemem reddedildi ama para hesabımdan düştü.,val,billing_payment,none,manual,manual-m085,ödemem reddedildi ama para hesabımdan düştü,odemem reddedildi ama para hesabimdan dustu
+,tr,appliance_support,billing_payment,Aylık ödeme planımın son taksiti ne zaman?,val,billing_payment,none,manual,manual-m089,aylık ödeme planımın son taksiti ne zaman,aylik odeme planimin son taksiti ne zaman
+,en,appliance_support,billing_payment,Can I get my invoice by email?,val,billing_payment,none,manual,manual-m092,can i get my invoice by email,can i get my invoice by email
+,en,appliance_support,billing_payment,I want to change my billing address.,val,billing_payment,none,manual,manual-m100,i want to change my billing address,i want to change my billing address

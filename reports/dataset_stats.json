@@ -1,0 +1,125 @@
+{
+  "removed_for_leakage": 131,
+  "removed_duplicates": 171,
+  "split_sizes": {
+    "train": 3808,
+    "test": 1206,
+    "val": 609
+  },
+  "by_split_lang": {
+    "en": {
+      "test": 609,
+      "train": 1968,
+      "val": 310
+    },
+    "tr": {
+      "test": 597,
+      "train": 1840,
+      "val": 299
+    }
+  },
+  "by_split_source": {
+    "manual": {
+      "test": 20,
+      "train": 60,
+      "val": 20
+    },
+    "manual_augmented": {
+      "test": 0,
+      "train": 273,
+      "val": 0
+    },
+    "massive": {
+      "test": 1186,
+      "train": 3475,
+      "val": 589
+    }
+  },
+  "by_split_oos_type": {
+    "none": {
+      "test": 600,
+      "train": 2414,
+      "val": 368
+    },
+    "seen": {
+      "test": 306,
+      "train": 1394,
+      "val": 241
+    },
+    "unseen": {
+      "test": 300,
+      "train": 0,
+      "val": 0
+    }
+  },
+  "by_label_split": {
+    "test": {
+      "appliance_malfunction": 4,
+      "billing_payment": 4,
+      "general_greet": 2,
+      "general_joke": 37,
+      "installation_request": 4,
+      "iot_cleaning": 48,
+      "iot_coffee": 72,
+      "iot_hue_lightchange": 72,
+      "iot_hue_lightdim": 41,
+      "iot_hue_lightoff": 81,
+      "iot_hue_lighton": 6,
+      "iot_hue_lightup": 54,
+      "iot_wemo_off": 33,
+      "iot_wemo_on": 20,
+      "out_of_scope": 606,
+      "return_refund": 4,
+      "takeaway_order": 44,
+      "takeaway_query": 70,
+      "warranty_inquiry": 4
+    },
+    "train": {
+      "appliance_malfunction": 67,
+      "billing_payment": 64,
+      "general_greet": 47,
+      "general_joke": 141,
+      "installation_request": 67,
+      "iot_cleaning": 161,
+      "iot_coffee": 233,
+      "iot_hue_lightchange": 242,
+      "iot_hue_lightdim": 130,
+      "iot_hue_lightoff": 256,
+      "iot_hue_lighton": 41,
+      "iot_hue_lightup": 146,
+      "iot_wemo_off": 86,
+      "iot_wemo_on": 88,
+      "out_of_scope": 1394,
+      "return_refund": 69,
+      "takeaway_order": 267,
+      "takeaway_query": 243,
+      "warranty_inquiry": 66
+    },
+    "val": {
+      "appliance_malfunction": 4,
+      "billing_payment": 4,
+      "general_greet": 3,
+      "general_joke": 30,
+      "installation_request": 4,
+      "iot_cleaning": 37,
+      "iot_coffee": 27,
+      "iot_hue_lightchange": 43,
+      "iot_hue_lightdim": 32,
+      "iot_hue_lightoff": 33,
+      "iot_hue_lighton": 10,
+      "iot_hue_lightup": 23,
+      "iot_wemo_off": 9,
+      "iot_wemo_on": 13,
+      "out_of_scope": 241,
+      "return_refund": 4,
+      "takeaway_order": 40,
+      "takeaway_query": 48,
+      "warranty_inquiry": 4
+    }
+  },
+  "test_oos_original_intents": {
+    "seen": 22,
+    "unseen": 24
+  },
+  "known_words": 1700
+}

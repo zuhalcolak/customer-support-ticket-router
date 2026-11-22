@@ -1,0 +1,62 @@
+W1122 11:37:53.317000 18480 .venv/lib/python3.13/site-packages/torch/distributed/elastic/multiprocessing/redirects.py:35] NOTE: Redirects are currently not supported in MacOs.
+Loading weights:   0%|          | 0/197 [00:00<?, ?it/s]Loading weights: 100%|██████████| 197/197 [00:00<00:00, 5555.59it/s]
+[transformers] [1mXLMRobertaForSequenceClassification LOAD REPORT[0m from: FacebookAI/xlm-roberta-base
+Key                         | Status     | 
+----------------------------+------------+-
+lm_head.layer_norm.weight   | UNEXPECTED | 
+roberta.pooler.dense.bias   | UNEXPECTED | 
+lm_head.dense.weight        | UNEXPECTED | 
+roberta.pooler.dense.weight | UNEXPECTED | 
+lm_head.layer_norm.bias     | UNEXPECTED | 
+lm_head.dense.bias          | UNEXPECTED | 
+lm_head.bias                | UNEXPECTED | 
+classifier.out_proj.weight  | MISSING    | 
+classifier.out_proj.bias    | MISSING    | 
+classifier.dense.weight     | MISSING    | 
+classifier.dense.bias       | MISSING    | 
+
+Notes:
+- UNEXPECTED:	can be ignored when loading from different task/architecture; not ok if you expect identical arch.
+- MISSING:	those params were newly initialized because missing from the checkpoint. Consider training on your downstream task.
+[teacher] epoch 1 step 0/119 loss=2.9589 t=6s
+[teacher] epoch 1 step 20/119 loss=2.9112 t=64s
+[teacher] epoch 1 step 40/119 loss=2.4548 t=129s
+[teacher] epoch 1 step 60/119 loss=2.4373 t=181s
+[teacher] epoch 1 step 80/119 loss=1.9984 t=242s
+[teacher] epoch 1 step 100/119 loss=1.9195 t=303s
+[teacher] epoch 1: loss=2.4040 val_acc=0.5862
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|██████████| 1/1 [00:02<00:00,  2.37s/it]Writing model shards: 100%|██████████| 1/1 [00:02<00:00,  2.37s/it]
+[teacher] epoch 2 step 0/119 loss=1.2818 t=379s
+[teacher] epoch 2 step 20/119 loss=1.2744 t=449s
+[teacher] epoch 2 step 40/119 loss=1.1686 t=524s
+[teacher] epoch 2 step 60/119 loss=0.9826 t=589s
+[teacher] epoch 2 step 80/119 loss=0.8643 t=639s
+[teacher] epoch 2 step 100/119 loss=0.9717 t=702s
+[teacher] epoch 2: loss=1.1873 val_acc=0.7882
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|██████████| 1/1 [00:01<00:00,  1.86s/it]Writing model shards: 100%|██████████| 1/1 [00:01<00:00,  1.87s/it]
+[teacher] epoch 3 step 0/119 loss=1.1801 t=783s
+[teacher] epoch 3 step 20/119 loss=0.5005 t=838s
+[teacher] epoch 3 step 40/119 loss=0.5281 t=894s
+[teacher] epoch 3 step 60/119 loss=0.4262 t=955s
+[teacher] epoch 3 step 80/119 loss=0.4307 t=1004s
+[teacher] epoch 3 step 100/119 loss=0.5604 t=1052s
+[teacher] epoch 3: loss=0.6787 val_acc=0.8243
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|██████████| 1/1 [00:02<00:00,  2.09s/it]Writing model shards: 100%|██████████| 1/1 [00:02<00:00,  2.09s/it]
+[teacher] epoch 4 step 0/119 loss=0.5941 t=1119s
+[teacher] epoch 4 step 20/119 loss=0.4663 t=1175s
+[teacher] epoch 4 step 40/119 loss=0.3950 t=1239s
+[teacher] epoch 4 step 60/119 loss=0.3807 t=1311s
+[teacher] epoch 4 step 80/119 loss=0.2572 t=1388s
+[teacher] epoch 4 step 100/119 loss=0.3360 t=1471s
+[teacher] epoch 4: loss=0.4471 val_acc=0.8982
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|██████████| 1/1 [00:03<00:00,  3.02s/it]Writing model shards: 100%|██████████| 1/1 [00:03<00:00,  3.02s/it]
+[teacher] epoch 5 step 0/119 loss=0.3126 t=1562s
+[teacher] epoch 5 step 20/119 loss=0.2570 t=1617s
+[teacher] epoch 5 step 40/119 loss=0.3680 t=1672s
+[teacher] epoch 5 step 60/119 loss=0.2606 t=1716s
+[teacher] epoch 5 step 80/119 loss=0.5618 t=1759s
+[teacher] epoch 5 step 100/119 loss=0.2898 t=1793s
+[teacher] epoch 5: loss=0.3400 val_acc=0.9097
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|██████████| 1/1 [00:02<00:00,  2.17s/it]Writing model shards: 100%|██████████| 1/1 [00:02<00:00,  2.17s/it]
+Loading weights:   0%|          | 0/201 [00:00<?, ?it/s]Loading weights: 100%|██████████| 201/201 [00:00<00:00, 7913.41it/s]
+{'accuracy': 0.8805970149253731, 'macro_f1': 0.7528949612545486, 'oos_recall': 0.9075907590759076}

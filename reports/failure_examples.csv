@@ -1,0 +1,147 @@
+uid,lang,source,oos_type,label,text,pred_classical,conf_classical,pred_neural,conf_neural,pred_transformer,conf_transformer,pred_quantized,conf_quantized
+massive-en-14,en,massive,none,iot_hue_lighton,and the darkness has fallen,out_of_scope,0.293,iot_hue_lighton,0.716,iot_hue_lightdim,0.458,out_of_scope,0.359
+massive-en-27,en,massive,none,iot_cleaning,it's dirty here make some noise,out_of_scope,0.187,out_of_scope,0.265,out_of_scope,0.3,out_of_scope,0.18
+massive-en-31,en,massive,none,iot_cleaning,hoover the hallway,out_of_scope,0.31,out_of_scope,0.328,out_of_scope,0.196,out_of_scope,0.213
+massive-en-286,en,massive,none,iot_hue_lighton,light up the lights in the kitchen,iot_hue_lightup,0.781,iot_hue_lightdim,0.643,iot_hue_lightup,0.573,iot_hue_lightdim,0.46
+massive-en-321,en,massive,none,iot_wemo_off,disable my okug,out_of_scope,0.419,out_of_scope,0.446,iot_wemo_off,0.471,out_of_scope,0.354
+massive-en-468,en,massive,none,iot_hue_lightdim,change the lights to dim,iot_hue_lightchange,0.551,iot_hue_lightchange,0.991,iot_hue_lightchange,0.534,out_of_scope,0.421
+massive-en-897,en,massive,none,iot_hue_lightchange,make the house lights amber at six p. m.,iot_hue_lightchange,0.69,iot_hue_lightchange,0.557,iot_hue_lightchange,0.941,iot_hue_lightup,0.486
+massive-en-1030,en,massive,none,iot_hue_lightdim,dim the lights in the living room,iot_hue_lightdim,0.979,iot_hue_lightdim,0.929,iot_hue_lightdim,0.486,out_of_scope,0.426
+massive-en-1042,en,massive,none,takeaway_order,open the folder app please,out_of_scope,0.531,out_of_scope,0.967,out_of_scope,0.981,out_of_scope,0.905
+massive-en-1043,en,massive,none,takeaway_order,call the nearest thai restaurant with delivery,takeaway_order,0.5,takeaway_query,0.894,takeaway_order,0.558,takeaway_query,0.507
+massive-en-2128,en,massive,none,iot_hue_lightdim,color of light should be dimmed bright,out_of_scope,0.371,iot_hue_lightchange,0.991,iot_hue_lightchange,0.613,iot_hue_lightchange,0.952
+massive-en-2160,en,massive,none,iot_hue_lightoff,i'm going to sleep now,out_of_scope,0.39,out_of_scope,0.486,out_of_scope,0.361,out_of_scope,0.392
+massive-en-2263,en,massive,none,iot_hue_lightdim,show me the dim color,out_of_scope,0.367,iot_hue_lightchange,0.517,iot_hue_lightchange,0.957,iot_hue_lightchange,0.966
+massive-en-2264,en,massive,none,iot_hue_lightup,light color for study room,iot_hue_lightchange,0.884,iot_hue_lightchange,0.988,iot_hue_lightchange,0.961,iot_hue_lightchange,0.965
+massive-en-2311,en,massive,none,iot_hue_lightdim,alexa turn the lights down to seven,iot_hue_lightdim,0.906,iot_hue_lightdim,0.83,iot_hue_lightup,0.47,iot_hue_lightup,0.5
+massive-en-2775,en,massive,none,iot_hue_lightoff,discontinue use of lights,out_of_scope,0.223,iot_hue_lightoff,0.509,iot_hue_lightoff,0.889,out_of_scope,0.421
+massive-en-2906,en,massive,none,iot_hue_lightchange,brightness ninety percent,iot_hue_lightdim,0.467,iot_hue_lightchange,0.53,iot_hue_lightup,0.489,iot_hue_lightup,0.622
+massive-en-3021,en,massive,none,takeaway_query,take out available louies,out_of_scope,0.376,takeaway_query,0.557,takeaway_order,0.854,takeaway_order,0.783
+massive-en-3080,en,massive,none,takeaway_order,it's time for junk food,out_of_scope,0.356,takeaway_query,0.576,takeaway_order,0.773,takeaway_query,0.717
+massive-en-3184,en,massive,none,iot_wemo_on,stop start the juice,out_of_scope,0.285,out_of_scope,0.356,iot_coffee,0.471,iot_coffee,0.871
+massive-en-3222,en,massive,none,iot_hue_lightdim,i want a lower light,iot_hue_lightdim,0.941,iot_hue_lightdim,0.614,iot_hue_lightdim,0.45,iot_hue_lightup,0.467
+massive-en-3364,en,massive,none,general_joke,knock knock,out_of_scope,0.581,out_of_scope,0.482,out_of_scope,0.934,out_of_scope,0.353
+massive-en-3378,en,massive,none,iot_hue_lightoff,no lights in the kitchen,iot_hue_lightoff,0.845,iot_hue_lightdim,0.744,iot_hue_lightoff,0.814,iot_hue_lightdim,0.491
+massive-en-3386,en,massive,none,iot_hue_lightoff,turn down the lights to medium,iot_hue_lightdim,0.939,iot_hue_lightdim,0.791,iot_hue_lightup,0.482,iot_hue_lightup,0.467
+massive-en-3522,en,massive,none,iot_hue_lighton,please turn on my balcony lights,iot_hue_lighton,0.844,iot_hue_lighton,0.999,out_of_scope,0.394,out_of_scope,0.425
+massive-en-3774,en,massive,none,iot_wemo_off,disable smart socket,iot_wemo_off,0.822,iot_wemo_off,0.999,iot_wemo_off,0.503,iot_wemo_on,0.597
+massive-en-3993,en,massive,none,iot_hue_lightoff,can you make the lights go out,iot_hue_lightchange,0.435,iot_hue_lightup,0.46,out_of_scope,0.352,iot_hue_lightdim,0.441
+massive-en-4013,en,massive,none,iot_cleaning,let's suck out the dust,out_of_scope,0.27,out_of_scope,0.759,iot_cleaning,0.675,out_of_scope,0.401
+massive-en-4024,en,massive,none,iot_wemo_off,please power down,iot_hue_lightdim,0.738,iot_hue_lightdim,0.815,out_of_scope,0.705,out_of_scope,0.288
+massive-en-4125,en,massive,none,takeaway_query,where can i get a shot of tequila and some to go mexican food,takeaway_query,0.62,takeaway_query,0.46,takeaway_order,0.746,takeaway_order,0.802
+massive-en-4347,en,massive,none,iot_hue_lightoff,cease operating lights,out_of_scope,0.266,iot_hue_lightdim,0.673,out_of_scope,0.389,out_of_scope,0.419
+massive-en-4461,en,massive,none,takeaway_query,is fongs dine in only,out_of_scope,0.667,out_of_scope,0.368,takeaway_order,0.518,out_of_scope,0.99
+massive-en-4955,en,massive,none,iot_hue_lightchange,would you love to see,out_of_scope,0.368,general_joke,0.946,out_of_scope,0.275,out_of_scope,0.207
+massive-en-5026,en,massive,none,iot_hue_lightchange,please make the lights natural,iot_hue_lightchange,0.408,iot_hue_lightup,0.474,iot_hue_lightchange,0.913,iot_hue_lightup,0.541
+massive-en-5165,en,massive,none,iot_hue_lightdim,lower the intensity of light,iot_hue_lightdim,0.961,iot_hue_lightdim,0.861,iot_hue_lightdim,0.46,iot_hue_lightup,0.515
+massive-en-5201,en,massive,none,iot_hue_lightdim,turn my lights down to a lower level of brightness,iot_hue_lightdim,0.993,iot_hue_lightdim,0.877,iot_hue_lightup,0.494,iot_hue_lightup,0.573
+massive-en-5349,en,massive,none,iot_hue_lightdim,olly give me some dim light,iot_hue_lightdim,0.852,iot_hue_lightdim,0.72,out_of_scope,0.404,iot_hue_lightup,0.458
+massive-en-5501,en,massive,none,iot_hue_lightup,please put all the lights,iot_hue_lightoff,0.45,iot_hue_lighton,0.731,out_of_scope,0.41,out_of_scope,0.419
+massive-en-5888,en,massive,none,iot_wemo_off,power off please,iot_wemo_off,0.873,iot_hue_lightoff,0.606,iot_hue_lightoff,0.46,iot_hue_lightoff,0.477
+massive-en-5988,en,massive,none,iot_hue_lightdim,adjust the lights to a lower setting please,iot_hue_lightchange,0.678,iot_hue_lightdim,0.523,iot_hue_lightchange,0.949,iot_hue_lightup,0.544
+massive-en-6015,en,massive,none,iot_hue_lightdim,decrease brightness of lights,iot_hue_lightdim,0.818,iot_hue_lightdim,0.945,iot_hue_lightdim,0.441,iot_hue_lightup,0.589
+massive-en-6055,en,massive,none,iot_hue_lightoff,did i leave the light on in the garage,out_of_scope,0.179,iot_hue_lightdim,0.446,iot_hue_lightoff,0.917,out_of_scope,0.348
+massive-en-13548,en,massive,none,iot_wemo_on,i'd like you to turn turn on the t. v.,iot_wemo_on,0.596,out_of_scope,0.228,out_of_scope,0.227,out_of_scope,0.373
+massive-tr-8,tr,massive,none,iot_hue_lightchange,tek ihtiyacımız olan pembe,out_of_scope,0.356,out_of_scope,0.837,iot_hue_lightchange,0.954,out_of_scope,0.241
+massive-tr-14,tr,massive,none,iot_hue_lighton,ve karanlık çöktü,iot_hue_lighton,0.951,iot_hue_lightchange,0.834,iot_hue_lightoff,0.696,out_of_scope,0.366
+massive-tr-27,tr,massive,none,iot_cleaning,burası çok pis biraz gürültü yap,out_of_scope,0.209,out_of_scope,0.221,out_of_scope,0.252,out_of_scope,0.33
+massive-tr-46,tr,massive,none,general_greet,naber olly,general_greet,0.981,general_greet,0.491,out_of_scope,0.195,out_of_scope,0.41
+massive-tr-122,tr,massive,none,general_joke,bir kikirdeme gönder,out_of_scope,0.627,out_of_scope,0.293,takeaway_order,0.727,out_of_scope,0.952
+massive-tr-286,tr,massive,none,iot_hue_lighton,mutfaktaki ışıkları yükselt,iot_hue_lightup,0.651,iot_hue_lightdim,0.748,iot_hue_lightup,0.606,iot_hue_lightup,0.478
+massive-tr-321,tr,massive,none,iot_wemo_off,fişi çek,iot_wemo_on,0.459,iot_wemo_off,0.996,iot_wemo_on,0.584,iot_wemo_on,0.678
+massive-tr-468,tr,massive,none,iot_hue_lightdim,ışıkları loşa çevir,iot_hue_lightchange,0.941,iot_hue_lightdim,0.818,iot_hue_lightchange,0.932,iot_hue_lightchange,0.955
+massive-tr-665,tr,massive,none,iot_hue_lightdim,ışıkları kısar mısın,out_of_scope,0.332,iot_hue_lightdim,0.472,iot_hue_lightdim,0.463,iot_hue_lightup,0.513
+massive-tr-964,tr,massive,none,iot_hue_lightdim,daha loş ışıklar istiyorum,iot_hue_lightdim,0.516,out_of_scope,0.386,iot_hue_lightup,0.529,iot_hue_lightup,0.487
+massive-tr-967,tr,massive,none,takeaway_query,uludağ kebap tan gel al ımı alabilir miyim,takeaway_query,0.626,takeaway_query,0.854,takeaway_query,0.729,return_refund,0.51
+massive-tr-1042,tr,massive,none,takeaway_order,lütfen uygulamalar klasörünü aç,out_of_scope,0.583,iot_wemo_on,0.455,out_of_scope,0.967,out_of_scope,0.988
+massive-tr-1579,tr,massive,none,general_joke,bana basketbolla ilgili bir espri bul,general_joke,0.874,general_joke,0.999,general_joke,0.932,out_of_scope,0.96
+massive-tr-1784,tr,massive,none,iot_hue_lightoff,yemek salonunu kapat,iot_hue_lightoff,0.39,return_refund,1.0,iot_hue_lightoff,0.897,iot_wemo_off,0.668
+massive-tr-1830,tr,massive,none,takeaway_order,baharatlı bir şeyler almak istiyorum,out_of_scope,0.208,out_of_scope,0.188,takeaway_order,0.705,out_of_scope,0.423
+massive-tr-2035,tr,massive,none,takeaway_query,olly yemek nerede,takeaway_query,0.858,takeaway_order,0.993,takeaway_query,0.742,takeaway_order,0.489
+massive-tr-2128,tr,massive,none,iot_hue_lightdim,ışık loş olmalı,iot_hue_lightdim,0.831,iot_hue_lightdim,0.646,out_of_scope,0.423,out_of_scope,0.429
+massive-tr-2160,tr,massive,none,iot_hue_lightoff,şimdi uyuyacağım,out_of_scope,0.356,out_of_scope,0.436,out_of_scope,0.39,out_of_scope,0.584
+massive-tr-2164,tr,massive,none,takeaway_query,ne zaman yiyebiliriz,takeaway_query,0.615,takeaway_query,0.602,takeaway_query,0.561,general_greet,0.464
+massive-tr-2263,tr,massive,none,iot_hue_lightdim,bana mat renk göster,out_of_scope,0.386,general_joke,0.541,iot_hue_lightchange,0.963,general_joke,0.58
+massive-tr-2264,tr,massive,none,iot_hue_lightup,çalışma odası için açık renk,out_of_scope,0.321,out_of_scope,0.387,iot_hue_lightchange,0.964,iot_hue_lightchange,0.921
+massive-tr-2311,tr,massive,none,iot_hue_lightdim,alexa ışıkları yediye indir,iot_hue_lightdim,0.871,iot_hue_lightdim,0.8,iot_hue_lightchange,0.81,iot_hue_lightup,0.508
+massive-tr-2775,tr,massive,none,iot_hue_lightoff,ışıkları kullanmayı bırak,out_of_scope,0.249,iot_hue_lightdim,0.624,iot_hue_lightoff,0.434,out_of_scope,0.318
+massive-tr-2906,tr,massive,none,iot_hue_lightchange,parlaklık yüzde doksan,out_of_scope,0.204,iot_hue_lightdim,0.515,iot_hue_lightup,0.501,iot_hue_lightup,0.517
+massive-tr-3080,tr,massive,none,takeaway_order,abur cubur zamanı,out_of_scope,0.309,out_of_scope,0.48,out_of_scope,0.267,out_of_scope,0.956
+massive-tr-3184,tr,massive,none,iot_wemo_on,dur meyve suyunu başlat,out_of_scope,0.396,out_of_scope,0.334,iot_coffee,0.898,out_of_scope,0.36
+massive-tr-3222,tr,massive,none,iot_hue_lightdim,daha düşük ışık istiyorum,iot_hue_lightdim,0.395,iot_hue_lightup,0.42,iot_hue_lightdim,0.451,iot_hue_lightup,0.537
+massive-tr-3320,tr,massive,none,iot_coffee,lütfen cezvemi benim için çalıştır,out_of_scope,0.278,iot_wemo_on,0.521,iot_wemo_on,0.462,out_of_scope,0.721
+massive-tr-3364,tr,massive,none,general_joke,tak tak,out_of_scope,0.34,takeaway_query,0.796,general_greet,0.49,out_of_scope,0.487
+massive-tr-3378,tr,massive,none,iot_hue_lightoff,mutfakta ışık olmasın,iot_hue_lightdim,0.485,out_of_scope,0.326,iot_hue_lightoff,0.754,out_of_scope,0.425
+massive-tr-3386,tr,massive,none,iot_hue_lightoff,ışıkları orta seviyeye indir,iot_hue_lightdim,0.673,iot_hue_lightdim,0.872,iot_hue_lightdim,0.437,iot_hue_lightup,0.507
+massive-tr-3522,tr,massive,none,iot_hue_lighton,lütfen balkon ışıklarımı aç,iot_hue_lighton,0.445,iot_hue_lighton,0.537,out_of_scope,0.386,out_of_scope,0.403
+massive-tr-3700,tr,massive,none,iot_hue_lightchange,ışıklar yüzde,iot_hue_lightchange,0.641,iot_hue_lightdim,0.77,out_of_scope,0.4,iot_hue_lightup,0.503
+massive-tr-3841,tr,massive,none,iot_cleaning,roombayı etkinleştir,iot_cleaning,0.496,iot_cleaning,1.0,iot_cleaning,0.646,out_of_scope,0.529
+massive-tr-4048,tr,massive,none,takeaway_query,lütfen günaydın et lokantasının sipariş alıp almadığını öğren,takeaway_order,0.557,takeaway_order,0.558,takeaway_query,0.621,takeaway_order,0.713
+massive-tr-4240,tr,massive,none,iot_cleaning,roombayı aç,iot_cleaning,0.669,iot_wemo_on,0.756,iot_cleaning,0.635,out_of_scope,0.345
+massive-tr-4347,tr,massive,none,iot_hue_lightoff,çalışan ışıkları durdur,out_of_scope,0.199,iot_hue_lightdim,0.402,iot_hue_lightoff,0.863,out_of_scope,0.342
+massive-tr-4955,tr,massive,none,iot_hue_lightchange,görmek ister misin,out_of_scope,0.482,takeaway_order,0.887,out_of_scope,0.51,out_of_scope,0.644
+massive-tr-5010,tr,massive,none,iot_coffee,her zamankinden yap,iot_coffee,0.489,iot_coffee,0.994,out_of_scope,0.34,out_of_scope,0.251
+massive-tr-5026,tr,massive,none,iot_hue_lightchange,lütfen ışıkları doğal yap,iot_hue_lighton,0.448,out_of_scope,0.396,iot_hue_lightchange,0.947,out_of_scope,0.385
+massive-tr-5047,tr,massive,none,iot_hue_lightdim,alexa evdeki ışıkları kapat lütfen,iot_hue_lightoff,0.712,out_of_scope,0.345,iot_hue_lightoff,0.947,iot_hue_lightoff,0.95
+massive-tr-5201,tr,massive,none,iot_hue_lightdim,ışıkları daha düşük seviyede aydınlığa kıs,iot_hue_lightdim,0.887,iot_hue_lightdim,0.764,iot_hue_lightdim,0.478,iot_hue_lightup,0.496
+massive-tr-5349,tr,massive,none,iot_hue_lightdim,olly bana biraz loş ışık ver,iot_hue_lightdim,0.652,iot_hue_lightchange,0.718,iot_hue_lightup,0.53,iot_hue_lightup,0.496
+massive-tr-5501,tr,massive,none,iot_hue_lightup,lütfen bütün ışıkları aç,iot_hue_lighton,0.939,iot_hue_lighton,0.868,iot_hue_lightup,0.48,out_of_scope,0.429
+massive-tr-5573,tr,massive,none,iot_hue_lightup,lütfen mutfaktaki aydınlığa uygun şekilde parlaklığı ayarla,out_of_scope,0.252,iot_hue_lightdim,0.459,iot_hue_lightchange,0.879,iot_hue_lightchange,0.503
+massive-tr-5988,tr,massive,none,iot_hue_lightdim,ışıkları daha düşük ayarlara ayarla lütfen,out_of_scope,0.275,iot_hue_lightdim,0.747,iot_hue_lightchange,0.575,iot_hue_lightchange,0.564
+massive-tr-6055,tr,massive,none,iot_hue_lightoff,garajdaki ışığı açık mı bıraktım,out_of_scope,0.292,out_of_scope,0.142,iot_hue_lightoff,0.891,out_of_scope,0.419
+massive-tr-6072,tr,massive,none,takeaway_query,çiya'dan yemeğimi almak için kaç dakika daha beklemem gerekiyor,takeaway_query,0.383,takeaway_query,0.468,takeaway_query,0.855,out_of_scope,0.506
+massive-tr-6112,tr,massive,none,takeaway_order,tavuk dünyası dan patates kızartması ve kanat söyle,takeaway_order,0.447,takeaway_order,0.988,takeaway_order,0.764,out_of_scope,0.324
+massive-tr-11914,tr,massive,none,iot_coffee,olly bir içeceğe ihtiyacım var,iot_coffee,0.621,out_of_scope,0.238,takeaway_order,0.587,out_of_scope,0.235
+massive-tr-11915,tr,massive,none,iot_coffee,bana içecek lazım,out_of_scope,0.318,out_of_scope,0.1,takeaway_order,0.779,out_of_scope,0.334
+massive-tr-13548,tr,massive,none,iot_wemo_on,senden t. v.' yi açmanı istiyorum,out_of_scope,0.353,out_of_scope,0.364,out_of_scope,0.417,out_of_scope,0.254
+massive-en-281,en,massive,seen,out_of_scope,what is the exchange rate of us dollar to pound sterling,out_of_scope,0.821,out_of_scope,0.864,out_of_scope,0.799,billing_payment,0.799
+massive-en-1300,en,massive,seen,out_of_scope,fast,takeaway_order,0.553,out_of_scope,0.973,out_of_scope,0.572,general_greet,0.494
+massive-tr-779,tr,massive,seen,out_of_scope,teoman 'dan paramparça 'yı dinlemek istiyorum,out_of_scope,0.644,takeaway_order,0.669,out_of_scope,0.979,takeaway_query,0.544
+massive-tr-3175,tr,massive,seen,out_of_scope,hoparlörleri kapat,out_of_scope,0.355,iot_hue_lightoff,0.756,out_of_scope,0.764,iot_wemo_off,0.566
+massive-tr-3838,tr,massive,seen,out_of_scope,sesi kapat,iot_hue_lightoff,0.483,iot_wemo_off,0.573,out_of_scope,0.866,iot_wemo_off,0.678
+massive-tr-8241,tr,massive,seen,out_of_scope,yılın geri kalanı için benim herşey imi temizle,out_of_scope,0.546,out_of_scope,0.961,iot_cleaning,0.901,iot_cleaning,0.632
+massive-en-4402,en,massive,unseen,out_of_scope,will i need to carry around a brolly today,out_of_scope,0.268,out_of_scope,0.186,out_of_scope,0.396,takeaway_order,0.5
+massive-en-9952,en,massive,unseen,out_of_scope,give me a cooking tutorial,out_of_scope,0.375,out_of_scope,0.775,general_joke,0.71,takeaway_query,0.486
+massive-en-9976,en,massive,unseen,out_of_scope,hey robot give me a list of ingredients for welsh rarebit,out_of_scope,0.398,out_of_scope,0.665,iot_coffee,0.528,takeaway_query,0.455
+massive-en-10076,en,massive,unseen,out_of_scope,can you substitute baking soda for baking powder,out_of_scope,0.305,out_of_scope,0.304,iot_coffee,0.939,takeaway_order,0.712
+massive-en-10125,en,massive,unseen,out_of_scope,what is the difference between bake and broil,out_of_scope,0.698,out_of_scope,0.341,out_of_scope,0.426,takeaway_query,0.668
+massive-en-10501,en,massive,unseen,out_of_scope,add broccoli to my grocery list,out_of_scope,0.743,out_of_scope,0.999,out_of_scope,0.384,takeaway_query,0.693
+massive-en-10770,en,massive,unseen,out_of_scope,remove cereal from my shopping list,out_of_scope,0.839,out_of_scope,0.981,out_of_scope,0.854,takeaway_query,0.566
+massive-en-10938,en,massive,unseen,out_of_scope,please add sugar to my grocery list,out_of_scope,0.765,out_of_scope,0.998,iot_coffee,0.875,takeaway_query,0.742
+massive-en-10982,en,massive,unseen,out_of_scope,put hamburger on my grocery list,out_of_scope,0.524,out_of_scope,0.987,takeaway_order,0.609,takeaway_query,0.5
+massive-en-10990,en,massive,unseen,out_of_scope,on my to dos remove mop kitchen,out_of_scope,0.512,out_of_scope,0.939,installation_request,0.486,takeaway_query,0.481
+massive-en-11628,en,massive,unseen,out_of_scope,where is the pharmacy in leavenworth,out_of_scope,0.641,out_of_scope,0.587,takeaway_query,0.838,billing_payment,0.437
+massive-en-12020,en,massive,unseen,out_of_scope,tell me what clothing stores are within five miles of me,out_of_scope,0.53,out_of_scope,0.633,out_of_scope,0.46,takeaway_query,0.788
+massive-en-13069,en,massive,unseen,out_of_scope,what are the definitions of orange,out_of_scope,0.436,out_of_scope,0.537,general_joke,0.525,iot_hue_lightchange,0.962
+massive-en-13221,en,massive,unseen,out_of_scope,what does priyanka chopra do to look beautiful,takeaway_query,0.556,takeaway_query,0.943,out_of_scope,0.427,iot_hue_lightchange,0.718
+massive-en-13342,en,massive,unseen,out_of_scope,i want it to be able to tell me statistics about things it's done for me like how often i've eaten out this month,out_of_scope,0.396,general_joke,0.567,out_of_scope,0.979,takeaway_query,0.618
+massive-en-13639,en,massive,unseen,out_of_scope,what is the increase in stock value over the past week of disney,out_of_scope,0.633,out_of_scope,0.932,out_of_scope,0.979,billing_payment,0.695
+massive-en-13690,en,massive,unseen,out_of_scope,what color are chairs,iot_hue_lightchange,0.44,out_of_scope,0.278,iot_hue_lightchange,0.956,iot_hue_lightchange,0.958
+massive-en-13741,en,massive,unseen,out_of_scope,what's the currency exchange rate for china,out_of_scope,0.392,general_joke,0.501,out_of_scope,0.821,billing_payment,0.447
+massive-en-14026,en,massive,unseen,out_of_scope,if a pencil cost four dollars and a book ten dollars cost how much i should pay if i buy two pencil and three book,out_of_scope,0.289,takeaway_query,0.521,out_of_scope,0.415,takeaway_query,0.517
+massive-en-14449,en,massive,unseen,out_of_scope,does pink have a new baby,out_of_scope,0.53,out_of_scope,0.374,iot_hue_lightchange,0.84,iot_hue_lightchange,0.835
+massive-en-14475,en,massive,unseen,out_of_scope,detail for stock price,takeaway_order,0.715,out_of_scope,0.249,takeaway_order,0.604,takeaway_query,0.471
+massive-en-14555,en,massive,unseen,out_of_scope,let me know up and down in stock price of this company stock,out_of_scope,0.602,out_of_scope,0.782,takeaway_query,0.562,billing_payment,0.442
+massive-en-14763,en,massive,unseen,out_of_scope,how much is the dollar worth compared to the euro,out_of_scope,0.3,out_of_scope,0.273,out_of_scope,0.648,billing_payment,0.773
+massive-en-14859,en,massive,unseen,out_of_scope,what is the exchange rate with in one british pound,out_of_scope,0.815,out_of_scope,0.967,out_of_scope,0.885,billing_payment,0.696
+massive-tr-9952,tr,massive,unseen,out_of_scope,bana pişirme dersleri ver,takeaway_order,0.394,out_of_scope,0.657,out_of_scope,0.374,takeaway_order,0.781
+massive-tr-10076,tr,massive,unseen,out_of_scope,karbonat yerine kabartma tozu kullanılabilir mi,out_of_scope,0.465,out_of_scope,0.2,iot_coffee,0.825,return_refund,0.595
+massive-tr-10125,tr,massive,unseen,out_of_scope,fırınlama ve kızartma arasındaki fark nedir,out_of_scope,0.437,out_of_scope,0.616,iot_coffee,0.441,appliance_malfunction,0.582
+massive-tr-10982,tr,massive,unseen,out_of_scope,benim bakkal listeme hamburger koy,out_of_scope,0.604,out_of_scope,0.993,takeaway_order,0.866,takeaway_order,0.501
+massive-tr-13221,tr,massive,unseen,out_of_scope,ceyda düvenci güzel görünmek için neler yapıyor,out_of_scope,0.309,general_greet,0.403,iot_hue_lightchange,0.915,takeaway_query,0.519
+massive-tr-14763,tr,massive,unseen,out_of_scope,avro ile karşılaştırıldığında doların değeri ne kadar,out_of_scope,0.304,out_of_scope,0.822,out_of_scope,0.653,billing_payment,0.772
+massive-tr-14995,tr,massive,unseen,out_of_scope,durum ne demek,out_of_scope,0.33,takeaway_query,0.793,general_joke,0.848,general_greet,0.56
+massive-tr-16672,tr,massive,unseen,out_of_scope,ben irtibata girdi mi,out_of_scope,0.62,out_of_scope,0.347,out_of_scope,0.858,takeaway_query,0.738
+massive-tr-16974,tr,massive,unseen,out_of_scope,lütfen gelir vergisi departmanının tüm yeni e-postalarını kontrol edin,out_of_scope,0.434,out_of_scope,0.12,out_of_scope,0.888,billing_payment,0.506
+massive-tr-17011,tr,massive,unseen,out_of_scope,adresine e-posta gönderebilir misin,out_of_scope,0.382,out_of_scope,0.199,billing_payment,0.587,billing_payment,0.445
+massive-tr-17138,tr,massive,unseen,out_of_scope,lütfen okunan mesajlarımı arşivle,out_of_scope,0.486,out_of_scope,0.344,out_of_scope,0.989,iot_hue_lightchange,0.924
+manual-m005,tr,manual,none,appliance_malfunction,Kurutma makinesi çok ses çıkarıyor ve titriyor.,out_of_scope,0.218,out_of_scope,0.297,out_of_scope,0.175,out_of_scope,0.351
+manual-m008,tr,manual,none,appliance_malfunction,Buzdolabının altından su sızıyor.,out_of_scope,0.408,out_of_scope,0.189,appliance_malfunction,0.66,installation_request,0.537
+manual-m013,en,manual,none,appliance_malfunction,My refrigerator is not cooling enough.,appliance_malfunction,0.514,out_of_scope,0.187,appliance_malfunction,0.618,out_of_scope,0.342
+manual-m020,en,manual,none,appliance_malfunction,"The freezer is building up too much ice, model FR-4410.",out_of_scope,0.187,installation_request,0.471,out_of_scope,0.39,installation_request,0.601
+manual-m025,tr,manual,none,installation_request,Klimanın montajı ücretli mi?,out_of_scope,0.26,billing_payment,1.0,installation_request,0.448,billing_payment,0.731
+manual-m030,tr,manual,none,installation_request,Yeni klimamın kurulum randevusunu değiştirmek istiyorum.,out_of_scope,0.421,return_refund,0.996,installation_request,0.671,out_of_scope,0.38
+manual-m040,en,manual,none,installation_request,I want to reschedule the installation appointment for my new AC.,out_of_scope,0.421,return_refund,0.475,out_of_scope,0.323,out_of_scope,0.386
+manual-m069,tr,manual,none,return_refund,Arızalı çamaşır makinesinin yerine yenisini istiyorum.,installation_request,0.694,out_of_scope,0.219,installation_request,0.528,installation_request,0.647
+manual-m076,en,manual,none,return_refund,"You sent the wrong color dishwasher, I want to exchange it.",iot_hue_lightchange,0.599,iot_hue_lightchange,0.986,return_refund,0.559,iot_hue_lightchange,0.758
+manual-m080,en,manual,none,return_refund,What is the status of my refund?,takeaway_query,0.724,out_of_scope,0.848,return_refund,0.435,out_of_scope,0.288

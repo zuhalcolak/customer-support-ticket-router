@@ -1,0 +1,15 @@
+{
+  "cpu": "Apple M3",
+  "physical_cores": 8,
+  "logical_cores": 8,
+  "ram_gb": 16.0,
+  "os": "macOS-27.0-arm64-arm-64bit-Mach-O",
+  "python": "3.13.5",
+  "torch": "2.15.0",
+  "torch_threads": 4,
+  "benchmark_device": "cpu",
+  "gpu": "none used for benchmarking (CPU only)",
+  "training_accelerator": "Apple M3 GPU via PyTorch MPS (Transformer + student training only)",
+  "quantized_engine": "qnnpack",
+  "benchmark_threads": 4
+}

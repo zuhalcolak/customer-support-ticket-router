@@ -1,0 +1,101 @@
+id,lang,intent,text
+m001,tr,appliance_malfunction,Bulaşık makinem su boşaltmıyor.
+m002,tr,appliance_malfunction,Çamaşır makinem sıkma yapmıyor.
+m003,tr,appliance_malfunction,Buzdolabım yeterince soğutmuyor.
+m004,tr,appliance_malfunction,"Fırınım çalışmıyor, hiç ısınmıyor."
+m005,tr,appliance_malfunction,Kurutma makinesi çok ses çıkarıyor ve titriyor.
+m006,tr,appliance_malfunction,Bulaşık makinesinin ekranında E15 hata kodu yanıp sönüyor.
+m007,tr,appliance_malfunction,"Çamaşır makinemin kapağı açılmıyor, içinde su kaldı."
+m008,tr,appliance_malfunction,Buzdolabının altından su sızıyor.
+m009,tr,appliance_malfunction,Klima açılıyor ama soğuk hava vermiyor.
+m010,tr,appliance_malfunction,"Ocağın sağ gözü yanmıyor, model HB-2210."
+m011,en,appliance_malfunction,My dishwasher is not draining water.
+m012,en,appliance_malfunction,My washing machine is not spinning.
+m013,en,appliance_malfunction,My refrigerator is not cooling enough.
+m014,en,appliance_malfunction,My oven is not working at all.
+m015,en,appliance_malfunction,The dryer makes a loud banging noise during the cycle.
+m016,en,appliance_malfunction,The dishwasher display shows error code E24.
+m017,en,appliance_malfunction,The washing machine door is stuck and will not open.
+m018,en,appliance_malfunction,Water is leaking under my fridge.
+m019,en,appliance_malfunction,The air conditioner turns on but blows warm air.
+m020,en,appliance_malfunction,"The freezer is building up too much ice, model FR-4410."
+m021,tr,installation_request,Yeni aldığım bulaşık makinesinin kurulumu için teknisyen istiyorum.
+m022,tr,installation_request,Çamaşır makinemi ne zaman kurmaya gelirsiniz?
+m023,tr,installation_request,Ankastre fırının montajı için randevu almak istiyorum.
+m024,tr,installation_request,"Taşındım, buzdolabımın yeniden kurulması lazım."
+m025,tr,installation_request,Klimanın montajı ücretli mi?
+m026,tr,installation_request,Kurulum ekibi bugün gelecekti ama kimse gelmedi.
+m027,tr,installation_request,Kurutma makinesini çamaşır makinesinin üstüne monte edebilir misiniz?
+m028,tr,installation_request,Bulaşık makinesinin su bağlantısını kim yapacak?
+m029,tr,installation_request,Ocak kurulumunda doğalgaz dönüşümü yapıyor musunuz?
+m030,tr,installation_request,Yeni klimamın kurulum randevusunu değiştirmek istiyorum.
+m031,en,installation_request,I need a technician to install my new dishwasher.
+m032,en,installation_request,When can someone come to set up my washing machine?
+m033,en,installation_request,I would like to book an appointment to install my built-in oven.
+m034,en,installation_request,I moved house and need my fridge reinstalled.
+m035,en,installation_request,Is air conditioner installation free of charge?
+m036,en,installation_request,The installation team was supposed to come today but nobody showed up.
+m037,en,installation_request,Can you stack my dryer on top of the washing machine?
+m038,en,installation_request,Who will connect the water supply for the dishwasher?
+m039,en,installation_request,Do you convert the cooktop to natural gas during installation?
+m040,en,installation_request,I want to reschedule the installation appointment for my new AC.
+m041,tr,warranty_inquiry,Ürünümün garantisi ne zaman bitiyor?
+m042,tr,warranty_inquiry,Buzdolabım hâlâ garanti kapsamında mı?
+m043,tr,warranty_inquiry,Fırınımın garanti süresini uzatmak istiyorum.
+m044,tr,warranty_inquiry,Seri numarasıyla garanti durumunu nasıl sorgularım?
+m045,tr,warranty_inquiry,"Garanti belgemi kaybettim, ne yapmalıyım?"
+m046,tr,warranty_inquiry,"Fırının cam kapağı kırıldı, garanti karşılar mı?"
+m047,tr,warranty_inquiry,Çamaşır makinemin motoru kaç yıl garantili?
+m048,tr,warranty_inquiry,Ek garanti paketinin fiyatı nedir?
+m049,tr,warranty_inquiry,"Garantili tamir için fatura gerekli mi, model WM-8120?"
+m050,tr,warranty_inquiry,İkinci el aldığım bulaşık makinesinin garantisi devam ediyor mu?
+m051,en,warranty_inquiry,I want to check my warranty.
+m052,en,warranty_inquiry,Is my refrigerator still under warranty?
+m053,en,warranty_inquiry,How can I extend the warranty on my oven?
+m054,en,warranty_inquiry,How do I check the warranty status with the serial number?
+m055,en,warranty_inquiry,"I lost my warranty card, what should I do?"
+m056,en,warranty_inquiry,Does the warranty cover a cracked glass door?
+m057,en,warranty_inquiry,How many years is the motor warranty on my washing machine?
+m058,en,warranty_inquiry,How much does the extended warranty plan cost?
+m059,en,warranty_inquiry,Do I need the receipt for a warranty repair on model DW-6534?
+m060,en,warranty_inquiry,Does the warranty transfer if I bought the dishwasher second hand?
+m061,tr,return_refund,Aldığım buzdolabını iade etmek istiyorum.
+m062,tr,return_refund,"Ürün hasarlı geldi, değişim yapabilir miyim?"
+m063,tr,return_refund,İade ettiğim fırının parası ne zaman hesabıma geçer?
+m064,tr,return_refund,"Kurutma makinesi beklediğim gibi çıkmadı, geri göndermek istiyorum."
+m065,tr,return_refund,İade kargosu ücretli mi?
+m066,tr,return_refund,"Yanlış renk bulaşık makinesi gönderilmiş, değiştirmek istiyorum."
+m067,tr,return_refund,14 gün içinde cayma hakkımı kullanmak istiyorum.
+m068,tr,return_refund,Kutusu açılmış ürünü iade edebilir miyim?
+m069,tr,return_refund,Arızalı çamaşır makinesinin yerine yenisini istiyorum.
+m070,tr,return_refund,Para iademin durumunu öğrenmek istiyorum.
+m071,en,return_refund,I want to return the refrigerator I bought.
+m072,en,return_refund,"The product arrived damaged, can I get a replacement?"
+m073,en,return_refund,When will I get my refund for the returned oven?
+m074,en,return_refund,The dryer is not what I expected and I want to send it back.
+m075,en,return_refund,Do I have to pay for return shipping?
+m076,en,return_refund,"You sent the wrong color dishwasher, I want to exchange it."
+m077,en,return_refund,I want to cancel my purchase within the 14 day return period.
+m078,en,return_refund,Can I return an item if the box has been opened?
+m079,en,return_refund,I want a new washing machine instead of this defective one.
+m080,en,return_refund,What is the status of my refund?
+m081,tr,billing_payment,Kartımdan iki kez ücret çekilmiş.
+m082,tr,billing_payment,Faturamı e-posta ile alabilir miyim?
+m083,tr,billing_payment,Taksitli ödeme seçeneğiniz var mı?
+m084,tr,billing_payment,Servis ücreti faturasında yanlış tutar var.
+m085,tr,billing_payment,Ödemem reddedildi ama para hesabımdan düştü.
+m086,tr,billing_payment,"Kurumsal fatura almak istiyorum, vergi numaram değişti."
+m087,tr,billing_payment,Teknik servis ziyareti için ne kadar ödeyeceğim?
+m088,tr,billing_payment,Kayıtlı ödeme yöntemimi güncellemek istiyorum.
+m089,tr,billing_payment,Aylık ödeme planımın son taksiti ne zaman?
+m090,tr,billing_payment,Fatura adresimi değiştirmek istiyorum.
+m091,en,billing_payment,I was charged twice on my credit card.
+m092,en,billing_payment,Can I get my invoice by email?
+m093,en,billing_payment,Do you offer monthly installment payments?
+m094,en,billing_payment,The repair invoice shows the wrong amount.
+m095,en,billing_payment,My payment was declined but the money left my account.
+m096,en,billing_payment,I need a corporate invoice with my new tax number.
+m097,en,billing_payment,How much will I pay for a technician visit?
+m098,en,billing_payment,I want to update my saved payment method.
+m099,en,billing_payment,When is the last payment of my installment plan due?
+m100,en,billing_payment,I want to change my billing address.

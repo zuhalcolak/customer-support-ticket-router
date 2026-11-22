@@ -1,0 +1,91 @@
+{
+  "student_base": "distilbert/distilbert-base-multilingual-cased",
+  "teacher": "artifacts/transformer (XLM-R base fine-tuned)",
+  "device": "mps",
+  "config": {
+    "epochs": 6,
+    "lr": 5e-05,
+    "batch_size": 32,
+    "alpha": 0.7,
+    "temperature": 2.0,
+    "max_len": 64,
+    "optimizer": "AdamW"
+  },
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 2.4376907989758405,
+      "val_acc": 0.6600985221674877,
+      "elapsed_s": 76.8552656173706
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.5754713303401691,
+      "val_acc": 0.8292282430213465,
+      "elapsed_s": 171.8420798778534
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.2553753988707767,
+      "val_acc": 0.8784893267651889,
+      "elapsed_s": 257.75398778915405
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.15649899076513885,
+      "val_acc": 0.8998357963875205,
+      "elapsed_s": 347.22258472442627
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.11799146535516787,
+      "val_acc": 0.8981937602627258,
+      "elapsed_s": 431.89707684516907
+    },
+    {
+      "epoch": 6,
+      "train_loss": 0.10200630256733975,
+      "val_acc": 0.8998357963875205,
+      "elapsed_s": 525.9370498657227
+    }
+  ],
+  "best_val_acc": 0.8998357963875205,
+  "train_seconds": 525.9371116161346,
+  "steps": 714,
+  "threshold": 0.42,
+  "val": {
+    "threshold": 0.42,
+    "accuracy": 0.8949096880131363,
+    "macro_precision": 0.8198074220146602,
+    "macro_recall": 0.7395413373709395,
+    "macro_f1": 0.7567404725331568,
+    "oos_recall": 0.970954356846473,
+    "oos_precision": 0.9140625,
+    "inscope_accuracy": 0.845108695652174,
+    "accuracy_no_threshold": 0.8998357963875205,
+    "oos_recall_no_threshold": 0.9585062240663901,
+    "n": 609,
+    "n_oos": 241
+  },
+  "test": {
+    "threshold": 0.42,
+    "accuracy": 0.8756218905472637,
+    "macro_precision": 0.6816716736325563,
+    "macro_recall": 0.7732737224214726,
+    "macro_f1": 0.7033426989107461,
+    "oos_recall": 0.9108910891089109,
+    "oos_precision": 0.9403747870528109,
+    "inscope_accuracy": 0.84,
+    "accuracy_no_threshold": 0.8374792703150912,
+    "oos_recall_no_threshold": 0.8267326732673267,
+    "n": 1206,
+    "n_oos": 606,
+    "accuracy[lang=en]": 0.8817733990147784,
+    "accuracy[lang=tr]": 0.8693467336683417,
+    "accuracy[oos_type=none]": 0.84,
+    "oos_recall[seen]": 0.9705882352941176,
+    "oos_recall[unseen]": 0.85,
+    "accuracy[source=manual]": 0.7,
+    "accuracy[source=massive]": 0.8785834738617201
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "engine": "qnnpack",
+  "quantized_modules": {
+    "int8_dynamic_linear": 38,
+    "int8_embedding": 2,
+    "float_linear": 0,
+    "float_embedding": 0
+  },
+  "reloaded_modules": {
+    "int8_dynamic_linear": 38,
+    "int8_embedding": 2,
+    "float_linear": 0,
+    "float_embedding": 0
+  },
+  "student_fp32_weights_mb": 541.369668,
+  "int8_weights_mb": 136.558025,
+  "argmax_agreement_with_fp32_student_on_test": 0.9336650082918739,
+  "threshold": 0.43,
+  "val": {
+    "threshold": 0.43,
+    "accuracy": 0.8850574712643678,
+    "macro_precision": 0.7392069915423177,
+    "macro_recall": 0.7041076387910964,
+    "macro_f1": 0.710941028106946,
+    "oos_recall": 0.983402489626556,
+    "oos_precision": 0.8977272727272727,
+    "inscope_accuracy": 0.8206521739130435,
+    "accuracy_no_threshold": 0.8850574712643678,
+    "oos_recall_no_threshold": 0.966804979253112,
+    "n": 609,
+    "n_oos": 241
+  },
+  "test": {
+    "threshold": 0.43,
+    "accuracy": 0.87893864013267,
+    "macro_precision": 0.6688603924667023,
+    "macro_recall": 0.6890405437446792,
+    "macro_f1": 0.6604581682156092,
+    "oos_recall": 0.9323432343234324,
+    "oos_precision": 0.9127625201938611,
+    "inscope_accuracy": 0.825,
+    "accuracy_no_threshold": 0.8548922056384743,
+    "oos_recall_no_threshold": 0.8679867986798679,
+    "n": 1206,
+    "n_oos": 606,
+    "accuracy[lang=en]": 0.8784893267651889,
+    "accuracy[lang=tr]": 0.8793969849246231,
+    "accuracy[oos_type=none]": 0.825,
+    "oos_recall[seen]": 0.9803921568627451,
+    "oos_recall[unseen]": 0.8833333333333333,
+    "accuracy[source=manual]": 0.5,
+    "accuracy[source=massive]": 0.8853288364249579
+  }
+}
